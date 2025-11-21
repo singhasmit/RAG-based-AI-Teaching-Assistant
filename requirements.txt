@@ -2,3 +2,5 @@ streamlit
 numpy
 pandas
 scikit-learn
+google-generativeai
+python-dotenv
