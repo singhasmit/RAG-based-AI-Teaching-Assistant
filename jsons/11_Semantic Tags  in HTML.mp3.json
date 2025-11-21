@@ -1,0 +1,1377 @@
+{
+  "chunks": [
+    {
+      "number": "11",
+      "title": "Semantic Tags  in HTML",
+      "start": 0.0,
+      "end": 3.64,
+      "text": " What's the matter? You guys have come to the 11th video in the Sigma Web Development course."
+    },
+    {
+      "number": "11",
+      "title": "Semantic Tags  in HTML",
+      "start": 3.64,
+      "end": 5.64,
+      "text": " We have completed 10 videos."
+    },
+    {
+      "number": "11",
+      "title": "Semantic Tags  in HTML",
+      "start": 5.64,
+      "end": 8.24,
+      "text": " So, one like is made for everyone's consistency."
+    },
+    {
+      "number": "11",
+      "title": "Semantic Tags  in HTML",
+      "start": 8.24,
+      "end": 10.96,
+      "text": " In today's video, we will see about Semantic Tax."
+    },
+    {
+      "number": "11",
+      "title": "Semantic Tags  in HTML",
+      "start": 10.96,
+      "end": 12.96,
+      "text": " Because SEO is very important for us."
+    },
+    {
+      "number": "11",
+      "title": "Semantic Tags  in HTML",
+      "start": 12.96,
+      "end": 15.48,
+      "text": " And to understand the structure of the overall website,"
+    },
+    {
+      "number": "11",
+      "title": "Semantic Tags  in HTML",
+      "start": 15.48,
+      "end": 18.400000000000002,
+      "text": " Search engines are very happy to see this structure."
+    },
+    {
+      "number": "11",
+      "title": "Semantic Tags  in HTML",
+      "start": 18.400000000000002,
+      "end": 22.68,
+      "text": " That is, overall SEO is going to be very good for your website if you use these tags."
+    },
+    {
+      "number": "11",
+      "title": "Semantic Tags  in HTML",
+      "start": 22.68,
+      "end": 24.76,
+      "text": " What are these tags? Why are these tags?"
+    },
+    {
+      "number": "11",
+      "title": "Semantic Tags  in HTML",
+      "start": 24.76,
+      "end": 26.16,
+      "text": " How to use them?"
+    },
+    {
+      "number": "11",
+      "title": "Semantic Tags  in HTML",
+      "start": 26.16,
+      "end": 28.16,
+      "text": " What is the benefit of this video?"
+    },
+    {
+      "number": "11",
+      "title": "Semantic Tags  in HTML",
+      "start": 28.16,
+      "end": 29.6,
+      "text": " Let's go to the computer screen."
+    },
+    {
+      "number": "11",
+      "title": "Semantic Tags  in HTML",
+      "start": 29.6,
+      "end": 31.6,
+      "text": " Let's roll the intro."
+    },
+    {
+      "number": "11",
+      "title": "Semantic Tags  in HTML",
+      "start": 40.24,
+      "end": 43.480000000000004,
+      "text": " So guys, first of all, I would like to tell you what is going on."
+    },
+    {
+      "number": "11",
+      "title": "Semantic Tags  in HTML",
+      "start": 43.480000000000004,
+      "end": 47.08,
+      "text": " Here you can see that I have made a folder in the name of video 11."
+    },
+    {
+      "number": "11",
+      "title": "Semantic Tags  in HTML",
+      "start": 47.08,
+      "end": 50.44,
+      "text": " And here I have set an index.html boilerplate template."
+    },
+    {
+      "number": "11",
+      "title": "Semantic Tags  in HTML",
+      "start": 50.44,
+      "end": 53.8,
+      "text": " I have set the title, H1 and set this image."
+    },
+    {
+      "number": "11",
+      "title": "Semantic Tags  in HTML",
+      "start": 53.8,
+      "end": 55.8,
+      "text": " I am going to preview it here."
+    },
+    {
+      "number": "11",
+      "title": "Semantic Tags  in HTML",
+      "start": 55.8,
+      "end": 59.8,
+      "text": " So, to explain this image a little, I will tell you what are Semantic Tax."
+    },
+    {
+      "number": "11",
+      "title": "Semantic Tags  in HTML",
+      "start": 59.8,
+      "end": 63.08,
+      "text": " Semantic Tags for browsers and web crawlers."
+    },
+    {
+      "number": "11",
+      "title": "Semantic Tags  in HTML",
+      "start": 63.08,
+      "end": 65.8,
+      "text": " Which want to understand your website properly."
+    },
+    {
+      "number": "11",
+      "title": "Semantic Tags  in HTML",
+      "start": 65.8,
+      "end": 72.19999999999999,
+      "text": " They want to tell you what is the content of your website and what is the purpose of which place and which tag."
+    },
+    {
+      "number": "11",
+      "title": "Semantic Tags  in HTML",
+      "start": 72.19999999999999,
+      "end": 78.0,
+      "text": " If you do not use Semantic Tags in HTML, then your work will be done."
+    },
+    {
+      "number": "11",
+      "title": "Semantic Tags  in HTML",
+      "start": 78.0,
+      "end": 84.2,
+      "text": " It is not that if you do not use Semantic Tags, then your website will not look good."
+    },
+    {
+      "number": "11",
+      "title": "Semantic Tags  in HTML",
+      "start": 84.2,
+      "end": 86.2,
+      "text": " You can do good designing."
+    },
+    {
+      "number": "11",
+      "title": "Semantic Tags  in HTML",
+      "start": 86.2,
+      "end": 92.60000000000001,
+      "text": " But we want to explain to Google search engines, Bing search engines about our website."
+    },
+    {
+      "number": "11",
+      "title": "Semantic Tags  in HTML",
+      "start": 92.60000000000001,
+      "end": 97.60000000000001,
+      "text": " And if we explain them about our website, then they will be able to understand our website."
+    },
+    {
+      "number": "11",
+      "title": "Semantic Tags  in HTML",
+      "start": 97.60000000000001,
+      "end": 102.80000000000001,
+      "text": " And they will rank our website on Google, Bing, and on respective search engines."
+    },
+    {
+      "number": "11",
+      "title": "Semantic Tags  in HTML",
+      "start": 102.80000000000001,
+      "end": 105.80000000000001,
+      "text": " And we want that the crawlers understand our website."
+    },
+    {
+      "number": "11",
+      "title": "Semantic Tags  in HTML",
+      "start": 105.80000000000001,
+      "end": 109.80000000000001,
+      "text": " And we want that whatever our website wants to understand, they can understand it properly."
+    },
+    {
+      "number": "11",
+      "title": "Semantic Tags  in HTML",
+      "start": 109.8,
+      "end": 115.2,
+      "text": " That is why there are some special tags like header, nav, main, article, figure."
+    },
+    {
+      "number": "11",
+      "title": "Semantic Tags  in HTML",
+      "start": 115.2,
+      "end": 121.39999999999999,
+      "text": " All these special tags are made in HTML which helps you to structure your website."
+    },
+    {
+      "number": "11",
+      "title": "Semantic Tags  in HTML",
+      "start": 121.39999999999999,
+      "end": 125.39999999999999,
+      "text": " Now if there is anything in the header, then I know that this is the header, that is at the top."
+    },
+    {
+      "number": "11",
+      "title": "Semantic Tags  in HTML",
+      "start": 125.39999999999999,
+      "end": 129.4,
+      "text": " If there is anything in the footer, then I will understand that the website has started ending from here."
+    },
+    {
+      "number": "11",
+      "title": "Semantic Tags  in HTML",
+      "start": 129.4,
+      "end": 130.8,
+      "text": " This footer started here."
+    },
+    {
+      "number": "11",
+      "title": "Semantic Tags  in HTML",
+      "start": 130.8,
+      "end": 132.8,
+      "text": " This footer could have been a div too, but no."
+    },
+    {
+      "number": "11",
+      "title": "Semantic Tags  in HTML",
+      "start": 132.8,
+      "end": 137.4,
+      "text": " If I am using Semantic HTML, then I will use the footer tag."
+    },
+    {
+      "number": "11",
+      "title": "Semantic Tags  in HTML",
+      "start": 137.4,
+      "end": 142.4,
+      "text": " And along with that, I was making my navigation bar in the span tag."
+    },
+    {
+      "number": "11",
+      "title": "Semantic Tags  in HTML",
+      "start": 142.4,
+      "end": 145.4,
+      "text": " This time I will not make my navigation bar in the span tag."
+    },
+    {
+      "number": "11",
+      "title": "Semantic Tags  in HTML",
+      "start": 145.4,
+      "end": 148.4,
+      "text": " I will make my navigation bar in the nav tag."
+    },
+    {
+      "number": "11",
+      "title": "Semantic Tags  in HTML",
+      "start": 148.4,
+      "end": 154.4,
+      "text": " So these kinds of differences make our search engines understand our website well."
+    },
+    {
+      "number": "11",
+      "title": "Semantic Tags  in HTML",
+      "start": 154.4,
+      "end": 159.4,
+      "text": " So I will show you some examples of Semantic tags here."
+    },
+    {
+      "number": "11",
+      "title": "Semantic Tags  in HTML",
+      "start": 159.4,
+      "end": 162.4,
+      "text": " And I hope you understood what Semantic tags are."
+    },
+    {
+      "number": "11",
+      "title": "Semantic Tags  in HTML",
+      "start": 162.4,
+      "end": 164.4,
+      "text": " Now look at the downloaded folders of our computer."
+    },
+    {
+      "number": "11",
+      "title": "Semantic Tags  in HTML",
+      "start": 164.4,
+      "end": 169.4,
+      "text": " Some of you might have noticed that the download folder of the world is in the same folder."
+    },
+    {
+      "number": "11",
+      "title": "Semantic Tags  in HTML",
+      "start": 169.4,
+      "end": 174.4,
+      "text": " 90% of your computer files are downloaded folders of many people."
+    },
+    {
+      "number": "11",
+      "title": "Semantic Tags  in HTML",
+      "start": 174.4,
+      "end": 175.4,
+      "text": " But we should not do that."
+    },
+    {
+      "number": "11",
+      "title": "Semantic Tags  in HTML",
+      "start": 175.4,
+      "end": 182.4,
+      "text": " Some people go through this to the limit that they start sending files in their local disc, in Windows folder."
+    },
+    {
+      "number": "11",
+      "title": "Semantic Tags  in HTML",
+      "start": 182.4,
+      "end": 186.4,
+      "text": " And some people also keep files in System32."
+    },
+    {
+      "number": "11",
+      "title": "Semantic Tags  in HTML",
+      "start": 186.4,
+      "end": 193.4,
+      "text": " So if you send your files to your computer, then it will not be arranged in one way."
+    },
+    {
+      "number": "11",
+      "title": "Semantic Tags  in HTML",
+      "start": 193.4,
+      "end": 199.4,
+      "text": " But if you arrange your files in folders, then it is in one folder."
+    },
+    {
+      "number": "11",
+      "title": "Semantic Tags  in HTML",
+      "start": 199.4,
+      "end": 203.4,
+      "text": " If you want to keep a secret file in a folder, then you can put it in a secret file."
+    },
+    {
+      "number": "11",
+      "title": "Semantic Tags  in HTML",
+      "start": 203.4,
+      "end": 209.4,
+      "text": " If you want to make a folder, then you can put some files in it."
+    },
+    {
+      "number": "11",
+      "title": "Semantic Tags  in HTML",
+      "start": 209.4,
+      "end": 211.4,
+      "text": " So it will be arranged in one way."
+    },
+    {
+      "number": "11",
+      "title": "Semantic Tags  in HTML",
+      "start": 211.4,
+      "end": 214.4,
+      "text": " You have arranged images in one way, you have arranged videos in one way,"
+    },
+    {
+      "number": "11",
+      "title": "Semantic Tags  in HTML",
+      "start": 214.4,
+      "end": 217.4,
+      "text": " and you have arranged ebooks in one way."
+    },
+    {
+      "number": "11",
+      "title": "Semantic Tags  in HTML",
+      "start": 217.4,
+      "end": 219.4,
+      "text": " So whenever you go to search, you will get it."
+    },
+    {
+      "number": "11",
+      "title": "Semantic Tags  in HTML",
+      "start": 219.4,
+      "end": 227.4,
+      "text": " So to understand that, it will be better to use that folder structure instead of sending your files throughout the computer."
+    },
+    {
+      "number": "11",
+      "title": "Semantic Tags  in HTML",
+      "start": 227.4,
+      "end": 231.4,
+      "text": " You will definitely not want to send your files throughout the computer."
+    },
+    {
+      "number": "11",
+      "title": "Semantic Tags  in HTML",
+      "start": 231.4,
+      "end": 235.4,
+      "text": " So I hope you understand why we use Semantic Tags."
+    },
+    {
+      "number": "11",
+      "title": "Semantic Tags  in HTML",
+      "start": 235.4,
+      "end": 237.4,
+      "text": " This is very good for SEO."
+    },
+    {
+      "number": "11",
+      "title": "Semantic Tags  in HTML",
+      "start": 237.4,
+      "end": 239.4,
+      "text": " So I have not used SEO word yet."
+    },
+    {
+      "number": "11",
+      "title": "Semantic Tags  in HTML",
+      "start": 239.4,
+      "end": 245.4,
+      "text": " But SEO search engine optimization is a very important part of using Semantic Tags."
+    },
+    {
+      "number": "11",
+      "title": "Semantic Tags  in HTML",
+      "start": 245.4,
+      "end": 246.4,
+      "text": " So what happens?"
+    },
+    {
+      "number": "11",
+      "title": "Semantic Tags  in HTML",
+      "start": 246.4,
+      "end": 251.4,
+      "text": " Basically, the way you make your website, you just use some special tags."
+    },
+    {
+      "number": "11",
+      "title": "Semantic Tags  in HTML",
+      "start": 251.4,
+      "end": 253.4,
+      "text": " For example, let's say I am making this website."
+    },
+    {
+      "number": "11",
+      "title": "Semantic Tags  in HTML",
+      "start": 253.4,
+      "end": 257.4,
+      "text": " I will comment out this image here."
+    },
+    {
+      "number": "11",
+      "title": "Semantic Tags  in HTML",
+      "start": 257.4,
+      "end": 259.4,
+      "text": " I will not comment out this image."
+    },
+    {
+      "number": "11",
+      "title": "Semantic Tags  in HTML",
+      "start": 259.4,
+      "end": 262.4,
+      "text": " I will make a nav here."
+    },
+    {
+      "number": "11",
+      "title": "Semantic Tags  in HTML",
+      "start": 262.4,
+      "end": 265.4,
+      "text": " So what I will do is, first of all, I will say that this is the header of my website."
+    },
+    {
+      "number": "11",
+      "title": "Semantic Tags  in HTML",
+      "start": 265.4,
+      "end": 266.4,
+      "text": " I have used it in a header tag."
+    },
+    {
+      "number": "11",
+      "title": "Semantic Tags  in HTML",
+      "start": 266.4,
+      "end": 268.4,
+      "text": " I will make a nav in it."
+    },
+    {
+      "number": "11",
+      "title": "Semantic Tags  in HTML",
+      "start": 268.4,
+      "end": 270.4,
+      "text": " I will make an unordered list in it."
+    },
+    {
+      "number": "11",
+      "title": "Semantic Tags  in HTML",
+      "start": 270.4,
+      "end": 272.4,
+      "text": " I will make an ally in it."
+    },
+    {
+      "number": "11",
+      "title": "Semantic Tags  in HTML",
+      "start": 272.4,
+      "end": 274.4,
+      "text": " I will write home here."
+    },
+    {
+      "number": "11",
+      "title": "Semantic Tags  in HTML",
+      "start": 274.4,
+      "end": 276.4,
+      "text": " I am writing a lot of letters in it."
+    },
+    {
+      "number": "11",
+      "title": "Semantic Tags  in HTML",
+      "start": 276.4,
+      "end": 279.4,
+      "text": " And this is my header."
+    },
+    {
+      "number": "11",
+      "title": "Semantic Tags  in HTML",
+      "start": 279.4,
+      "end": 282.4,
+      "text": " So any of my website pack will understand that this is my header."
+    },
+    {
+      "number": "11",
+      "title": "Semantic Tags  in HTML",
+      "start": 282.4,
+      "end": 286.4,
+      "text": " Home, about, contact, whatever I want to write, I can write here."
+    },
+    {
+      "number": "11",
+      "title": "Semantic Tags  in HTML",
+      "start": 286.4,
+      "end": 288.4,
+      "text": " So this is my header."
+    },
+    {
+      "number": "11",
+      "title": "Semantic Tags  in HTML",
+      "start": 288.4,
+      "end": 289.4,
+      "text": " This is my nav bar."
+    },
+    {
+      "number": "11",
+      "title": "Semantic Tags  in HTML",
+      "start": 289.4,
+      "end": 292.4,
+      "text": " This is clearly known because I have used header and nav tags."
+    },
+    {
+      "number": "11",
+      "title": "Semantic Tags  in HTML",
+      "start": 292.4,
+      "end": 294.4,
+      "text": " So I write about here."
+    },
+    {
+      "number": "11",
+      "title": "Semantic Tags  in HTML",
+      "start": 294.4,
+      "end": 296.4,
+      "text": " And I write contact here."
+    },
+    {
+      "number": "11",
+      "title": "Semantic Tags  in HTML",
+      "start": 296.4,
+      "end": 299.4,
+      "text": " So I wrote home here, wrote about here and wrote contact here."
+    },
+    {
+      "number": "11",
+      "title": "Semantic Tags  in HTML",
+      "start": 299.4,
+      "end": 302.4,
+      "text": " So I hope you understand this."
+    },
+    {
+      "number": "11",
+      "title": "Semantic Tags  in HTML",
+      "start": 302.4,
+      "end": 305.4,
+      "text": " Now if I want to make a footer, I want to make a footer."
+    },
+    {
+      "number": "11",
+      "title": "Semantic Tags  in HTML",
+      "start": 305.4,
+      "end": 307.4,
+      "text": " Here my main content will come after the header."
+    },
+    {
+      "number": "11",
+      "title": "Semantic Tags  in HTML",
+      "start": 307.4,
+      "end": 309.4,
+      "text": " So I will use the main tag."
+    },
+    {
+      "number": "11",
+      "title": "Semantic Tags  in HTML",
+      "start": 309.4,
+      "end": 313.4,
+      "text": " And after that, I will write in my footer."
+    },
+    {
+      "number": "11",
+      "title": "Semantic Tags  in HTML",
+      "start": 313.4,
+      "end": 315.4,
+      "text": " Copyright CWH"
+    },
+    {
+      "number": "11",
+      "title": "Semantic Tags  in HTML",
+      "start": 315.4,
+      "end": 320.4,
+      "text": " And here I will write All rights reserved."
+    },
+    {
+      "number": "11",
+      "title": "Semantic Tags  in HTML",
+      "start": 320.4,
+      "end": 322.4,
+      "text": " I can write like this."
+    },
+    {
+      "number": "11",
+      "title": "Semantic Tags  in HTML",
+      "start": 322.4,
+      "end": 325.4,
+      "text": " So here, see copyright, All rights reserved."
+    },
+    {
+      "number": "11",
+      "title": "Semantic Tags  in HTML",
+      "start": 325.4,
+      "end": 326.4,
+      "text": " I have written all this here."
+    },
+    {
+      "number": "11",
+      "title": "Semantic Tags  in HTML",
+      "start": 326.4,
+      "end": 330.4,
+      "text": " So I will do this, I will cut this."
+    },
+    {
+      "number": "11",
+      "title": "Semantic Tags  in HTML",
+      "start": 330.4,
+      "end": 331.4,
+      "text": " I will put it in the main."
+    },
+    {
+      "number": "11",
+      "title": "Semantic Tags  in HTML",
+      "start": 331.4,
+      "end": 332.4,
+      "text": " This is my main content."
+    },
+    {
+      "number": "11",
+      "title": "Semantic Tags  in HTML",
+      "start": 332.4,
+      "end": 335.4,
+      "text": " So first my header will come, then the main content will come, then the footer will come."
+    },
+    {
+      "number": "11",
+      "title": "Semantic Tags  in HTML",
+      "start": 335.4,
+      "end": 336.4,
+      "text": " As you can see here."
+    },
+    {
+      "number": "11",
+      "title": "Semantic Tags  in HTML",
+      "start": 336.4,
+      "end": 338.4,
+      "text": " And here you can see here this is the header."
+    },
+    {
+      "number": "11",
+      "title": "Semantic Tags  in HTML",
+      "start": 338.4,
+      "end": 340.4,
+      "text": " This is my main content, this is the footer."
+    },
+    {
+      "number": "11",
+      "title": "Semantic Tags  in HTML",
+      "start": 340.4,
+      "end": 342.4,
+      "text": " So in one way, I arranged it."
+    },
+    {
+      "number": "11",
+      "title": "Semantic Tags  in HTML",
+      "start": 342.4,
+      "end": 345.4,
+      "text": " In a way, you arrange your files in different folders."
+    },
+    {
+      "number": "11",
+      "title": "Semantic Tags  in HTML",
+      "start": 345.4,
+      "end": 348.4,
+      "text": " I arranged my HTML tags here."
+    },
+    {
+      "number": "11",
+      "title": "Semantic Tags  in HTML",
+      "start": 348.4,
+      "end": 353.4,
+      "text": " So we understood about the header tag that it is used to represent the top section of a web page."
+    },
+    {
+      "number": "11",
+      "title": "Semantic Tags  in HTML",
+      "start": 353.4,
+      "end": 354.4,
+      "text": " The header is there."
+    },
+    {
+      "number": "11",
+      "title": "Semantic Tags  in HTML",
+      "start": 354.4,
+      "end": 357.4,
+      "text": " Then after that, we will put nav, which is navigation menu on our page."
+    },
+    {
+      "number": "11",
+      "title": "Semantic Tags  in HTML",
+      "start": 357.4,
+      "end": 359.4,
+      "text": " We will put that in the nav tag ideally."
+    },
+    {
+      "number": "11",
+      "title": "Semantic Tags  in HTML",
+      "start": 359.4,
+      "end": 364.4,
+      "text": " Article indicates a self-containing piece of content such as blog post or news article."
+    },
+    {
+      "number": "11",
+      "title": "Semantic Tags  in HTML",
+      "start": 364.4,
+      "end": 369.4,
+      "text": " If you put a particular self-contained piece of content, then put it in the article tag."
+    },
+    {
+      "number": "11",
+      "title": "Semantic Tags  in HTML",
+      "start": 369.4,
+      "end": 372.4,
+      "text": " Section represents a thematic grouping."
+    },
+    {
+      "number": "11",
+      "title": "Semantic Tags  in HTML",
+      "start": 372.4,
+      "end": 377.4,
+      "text": " Suppose, one section is talking about something on your page, then the other section will talk about something else."
+    },
+    {
+      "number": "11",
+      "title": "Semantic Tags  in HTML",
+      "start": 377.4,
+      "end": 381.4,
+      "text": " Aside, aside means if anything is on one side, then they use aside tag."
+    },
+    {
+      "number": "11",
+      "title": "Semantic Tags  in HTML",
+      "start": 381.4,
+      "end": 387.4,
+      "text": " Here, see typically used for sidebars or content that is tangentially related to the main content."
+    },
+    {
+      "number": "11",
+      "title": "Semantic Tags  in HTML",
+      "start": 387.4,
+      "end": 392.4,
+      "text": " For example, what you can do on this aside tag is that you have to put a side note about the author."
+    },
+    {
+      "number": "11",
+      "title": "Semantic Tags  in HTML",
+      "start": 392.4,
+      "end": 395.4,
+      "text": " I have seen many blogs where it is written on the side about the author."
+    },
+    {
+      "number": "11",
+      "title": "Semantic Tags  in HTML",
+      "start": 395.4,
+      "end": 397.4,
+      "text": " You can put such things as aside tags."
+    },
+    {
+      "number": "11",
+      "title": "Semantic Tags  in HTML",
+      "start": 397.4,
+      "end": 399.4,
+      "text": " Then after this, we have the footer tag."
+    },
+    {
+      "number": "11",
+      "title": "Semantic Tags  in HTML",
+      "start": 399.4,
+      "end": 401.4,
+      "text": " I have told you about it."
+    },
+    {
+      "number": "11",
+      "title": "Semantic Tags  in HTML",
+      "start": 401.4,
+      "end": 403.4,
+      "text": " Copyright information, if you want to put all these things."
+    },
+    {
+      "number": "11",
+      "title": "Semantic Tags  in HTML",
+      "start": 403.4,
+      "end": 408.4,
+      "text": " Or if you want to put some important links on the website, then you can put them in the footer."
+    },
+    {
+      "number": "11",
+      "title": "Semantic Tags  in HTML",
+      "start": 408.4,
+      "end": 410.4,
+      "text": " Then after this, figure and pick caption."
+    },
+    {
+      "number": "11",
+      "title": "Semantic Tags  in HTML",
+      "start": 410.4,
+      "end": 412.4,
+      "text": " What is figure and pick caption?"
+    },
+    {
+      "number": "11",
+      "title": "Semantic Tags  in HTML",
+      "start": 412.4,
+      "end": 416.4,
+      "text": " You can also use images, diagrams, charts, all these things."
+    },
+    {
+      "number": "11",
+      "title": "Semantic Tags  in HTML",
+      "start": 416.4,
+      "end": 423.4,
+      "text": " The main content area in the main content area, like the main content area of our speech, is that we put it in the main tag."
+    },
+    {
+      "number": "11",
+      "title": "Semantic Tags  in HTML",
+      "start": 423.4,
+      "end": 427.4,
+      "text": " Then there is the time tag, used to represent time related information."
+    },
+    {
+      "number": "11",
+      "title": "Semantic Tags  in HTML",
+      "start": 427.4,
+      "end": 431.4,
+      "text": " You can use the time tag, you can put date, time or anything."
+    },
+    {
+      "number": "11",
+      "title": "Semantic Tags  in HTML",
+      "start": 431.4,
+      "end": 434.4,
+      "text": " So, I hope you have understood this."
+    },
+    {
+      "number": "11",
+      "title": "Semantic Tags  in HTML",
+      "start": 434.4,
+      "end": 440.4,
+      "text": " So, these are used to enhance SEO, to improve accessibility."
+    },
+    {
+      "number": "11",
+      "title": "Semantic Tags  in HTML",
+      "start": 440.4,
+      "end": 444.4,
+      "text": " If you want to take a decision about a browser, let's say there is a browser,"
+    },
+    {
+      "number": "11",
+      "title": "Semantic Tags  in HTML",
+      "start": 444.4,
+      "end": 448.4,
+      "text": " and it has a new feature, it will read our content aloud."
+    },
+    {
+      "number": "11",
+      "title": "Semantic Tags  in HTML",
+      "start": 448.4,
+      "end": 450.4,
+      "text": " Like the feature is on the edge."
+    },
+    {
+      "number": "11",
+      "title": "Semantic Tags  in HTML",
+      "start": 450.4,
+      "end": 453.4,
+      "text": " So, the browser can decide that I am reading the main content."
+    },
+    {
+      "number": "11",
+      "title": "Semantic Tags  in HTML",
+      "start": 453.4,
+      "end": 456.4,
+      "text": " Think about how to read the content aloud."
+    },
+    {
+      "number": "11",
+      "title": "Semantic Tags  in HTML",
+      "start": 456.4,
+      "end": 459.4,
+      "text": " Code with Harry, Home, Code, Cis, Tutorial."
+    },
+    {
+      "number": "11",
+      "title": "Semantic Tags  in HTML",
+      "start": 459.4,
+      "end": 461.4,
+      "text": " You don't want to read aloud like this."
+    },
+    {
+      "number": "11",
+      "title": "Semantic Tags  in HTML",
+      "start": 461.4,
+      "end": 465.4,
+      "text": " You want the main content to be read, like HTML, Semantic Tags."
+    },
+    {
+      "number": "11",
+      "title": "Semantic Tags  in HTML",
+      "start": 465.4,
+      "end": 468.4,
+      "text": " HTML5 Introduce, Range of Semantic Tags and so on."
+    },
+    {
+      "number": "11",
+      "title": "Semantic Tags  in HTML",
+      "start": 468.4,
+      "end": 472.4,
+      "text": " The first versions of our HTML, were not Semantic Tags."
+    },
+    {
+      "number": "11",
+      "title": "Semantic Tags  in HTML",
+      "start": 472.4,
+      "end": 475.4,
+      "text": " Semantic Tags were introduced by HTML5."
+    },
+    {
+      "number": "11",
+      "title": "Semantic Tags  in HTML",
+      "start": 475.4,
+      "end": 481.4,
+      "text": " And the most important reason to introduce Semantic Tags in HTML5 is to arrange things."
+    },
+    {
+      "number": "11",
+      "title": "Semantic Tags  in HTML",
+      "start": 481.4,
+      "end": 485.4,
+      "text": " So that the browsers, or the content that is parsing,"
+    },
+    {
+      "number": "11",
+      "title": "Semantic Tags  in HTML",
+      "start": 485.4,
+      "end": 491.4,
+      "text": " who are watching the content, like browser, crawler, Google, Bing, search engines,"
+    },
+    {
+      "number": "11",
+      "title": "Semantic Tags  in HTML",
+      "start": 491.4,
+      "end": 494.4,
+      "text": " or anyone who wants to generate preview, like you put URL on Twitter,"
+    },
+    {
+      "number": "11",
+      "title": "Semantic Tags  in HTML",
+      "start": 494.4,
+      "end": 498.4,
+      "text": " or you want to generate preview, if you have such things,"
+    },
+    {
+      "number": "11",
+      "title": "Semantic Tags  in HTML",
+      "start": 498.4,
+      "end": 502.4,
+      "text": " then you will want to be able to understand your content well."
+    },
+    {
+      "number": "11",
+      "title": "Semantic Tags  in HTML",
+      "start": 502.4,
+      "end": 505.4,
+      "text": " So, if you want to understand your content well,"
+    },
+    {
+      "number": "11",
+      "title": "Semantic Tags  in HTML",
+      "start": 505.4,
+      "end": 507.4,
+      "text": " then you will use Semantic Tags."
+    },
+    {
+      "number": "11",
+      "title": "Semantic Tags  in HTML",
+      "start": 507.4,
+      "end": 511.4,
+      "text": " Or this image is very good, it is explaining that without Semantic Tags,"
+    },
+    {
+      "number": "11",
+      "title": "Semantic Tags  in HTML",
+      "start": 511.4,
+      "end": 514.4,
+      "text": " if you write like this in HTML, then you will write like this."
+    },
+    {
+      "number": "11",
+      "title": "Semantic Tags  in HTML",
+      "start": 514.4,
+      "end": 518.4,
+      "text": " The image you see, this header, this nav, this side,"
+    },
+    {
+      "number": "11",
+      "title": "Semantic Tags  in HTML",
+      "start": 518.4,
+      "end": 522.4,
+      "text": " how to put something in the side, we will do it with CSS."
+    },
+    {
+      "number": "11",
+      "title": "Semantic Tags  in HTML",
+      "start": 522.4,
+      "end": 525.4,
+      "text": " Don't get confused, this is not used for styling,"
+    },
+    {
+      "number": "11",
+      "title": "Semantic Tags  in HTML",
+      "start": 525.4,
+      "end": 527.4,
+      "text": " because a lot of people are confused, that is not the case,"
+    },
+    {
+      "number": "11",
+      "title": "Semantic Tags  in HTML",
+      "start": 527.4,
+      "end": 531.4,
+      "text": " that aside tag, it is used to do things, no, it is not like that."
+    },
+    {
+      "number": "11",
+      "title": "Semantic Tags  in HTML",
+      "start": 531.4,
+      "end": 534.4,
+      "text": " You will have to style the things with CSS only,"
+    },
+    {
+      "number": "11",
+      "title": "Semantic Tags  in HTML",
+      "start": 534.4,
+      "end": 538.4,
+      "text": " but here, your content can be understood well,"
+    },
+    {
+      "number": "11",
+      "title": "Semantic Tags  in HTML",
+      "start": 538.4,
+      "end": 541.4,
+      "text": " described well, which main content, which header, which foot,"
+    },
+    {
+      "number": "11",
+      "title": "Semantic Tags  in HTML",
+      "start": 541.4,
+      "end": 543.4,
+      "text": " that is why Semantic Tags are made."
+    },
+    {
+      "number": "11",
+      "title": "Semantic Tags  in HTML",
+      "start": 543.4,
+      "end": 545.4,
+      "text": " So, Semantic Tags are not made by any magic,"
+    },
+    {
+      "number": "11",
+      "title": "Semantic Tags  in HTML",
+      "start": 545.4,
+      "end": 547.4,
+      "text": " Semantic Tags are made only for accessibility,"
+    },
+    {
+      "number": "11",
+      "title": "Semantic Tags  in HTML",
+      "start": 547.4,
+      "end": 549.4,
+      "text": " and to understand your page."
+    },
+    {
+      "number": "11",
+      "title": "Semantic Tags  in HTML",
+      "start": 549.4,
+      "end": 551.4,
+      "text": " Now, here are some examples, which you can see."
+    },
+    {
+      "number": "11",
+      "title": "Semantic Tags  in HTML",
+      "start": 551.4,
+      "end": 554.4,
+      "text": " I have given the example of header and foot attack here,"
+    },
+    {
+      "number": "11",
+      "title": "Semantic Tags  in HTML",
+      "start": 554.4,
+      "end": 556.4,
+      "text": " what will happen in the header,"
+    },
+    {
+      "number": "11",
+      "title": "Semantic Tags  in HTML",
+      "start": 556.4,
+      "end": 559.4,
+      "text": " or you see that you will put your navigation bar ideally in the header,"
+    },
+    {
+      "number": "11",
+      "title": "Semantic Tags  in HTML",
+      "start": 559.4,
+      "end": 561.4,
+      "text": " and then you will style it with CSS."
+    },
+    {
+      "number": "11",
+      "title": "Semantic Tags  in HTML",
+      "start": 561.4,
+      "end": 564.4,
+      "text": " I will show you a very quick styling,"
+    },
+    {
+      "number": "11",
+      "title": "Semantic Tags  in HTML",
+      "start": 564.4,
+      "end": 566.4,
+      "text": " obviously, we will do it later after styling,"
+    },
+    {
+      "number": "11",
+      "title": "Semantic Tags  in HTML",
+      "start": 566.4,
+      "end": 568.4,
+      "text": " but a lot of people will be confused,"
+    },
+    {
+      "number": "11",
+      "title": "Semantic Tags  in HTML",
+      "start": 568.4,
+      "end": 570.4,
+      "text": " how will this navigation bar be horizontal?"
+    },
+    {
+      "number": "11",
+      "title": "Semantic Tags  in HTML",
+      "start": 570.4,
+      "end": 572.4,
+      "text": " So, if you want to horizontalize the navigation bar,"
+    },
+    {
+      "number": "11",
+      "title": "Semantic Tags  in HTML",
+      "start": 572.4,
+      "end": 574.4,
+      "text": " then I will write some CSS here,"
+    },
+    {
+      "number": "11",
+      "title": "Semantic Tags  in HTML",
+      "start": 574.4,
+      "end": 577.4,
+      "text": " and I will tell you all this, why CSS works here."
+    },
+    {
+      "number": "11",
+      "title": "Semantic Tags  in HTML",
+      "start": 577.4,
+      "end": 579.4,
+      "text": " So, you see, I flexed the display,"
+    },
+    {
+      "number": "11",
+      "title": "Semantic Tags  in HTML",
+      "start": 579.4,
+      "end": 581.4,
+      "text": " and it happened like this,"
+    },
+    {
+      "number": "11",
+      "title": "Semantic Tags  in HTML",
+      "start": 581.4,
+      "end": 583.4,
+      "text": " so, there will be a lot of things in the coming videos,"
+    },
+    {
+      "number": "11",
+      "title": "Semantic Tags  in HTML",
+      "start": 583.4,
+      "end": 585.4,
+      "text": " so, you don't have to worry about it,"
+    },
+    {
+      "number": "11",
+      "title": "Semantic Tags  in HTML",
+      "start": 585.4,
+      "end": 587.4,
+      "text": " we didn't do this, that, that, I will tell you everything."
+    },
+    {
+      "number": "11",
+      "title": "Semantic Tags  in HTML",
+      "start": 587.4,
+      "end": 589.4,
+      "text": " And what does this CSS mean here?"
+    },
+    {
+      "number": "11",
+      "title": "Semantic Tags  in HTML",
+      "start": 589.4,
+      "end": 591.4,
+      "text": " Why did I write CSS by inspecting it?"
+    },
+    {
+      "number": "11",
+      "title": "Semantic Tags  in HTML",
+      "start": 591.4,
+      "end": 593.4,
+      "text": " I will tell you about this, I will reload it,"
+    },
+    {
+      "number": "11",
+      "title": "Semantic Tags  in HTML",
+      "start": 593.4,
+      "end": 596.4,
+      "text": " why it went away, we will see it in the CSS section."
+    },
+    {
+      "number": "11",
+      "title": "Semantic Tags  in HTML",
+      "start": 596.4,
+      "end": 598.4,
+      "text": " If you haven't done this playlist yet,"
+    },
+    {
+      "number": "11",
+      "title": "Semantic Tags  in HTML",
+      "start": 598.4,
+      "end": 600.4,
+      "text": " then do it, bookmark it,"
+    },
+    {
+      "number": "11",
+      "title": "Semantic Tags  in HTML",
+      "start": 600.4,
+      "end": 602.4,
+      "text": " click here and save it,"
+    },
+    {
+      "number": "11",
+      "title": "Semantic Tags  in HTML",
+      "start": 602.4,
+      "end": 604.4,
+      "text": " and I am going to upload all the code,"
+    },
+    {
+      "number": "11",
+      "title": "Semantic Tags  in HTML",
+      "start": 604.4,
+      "end": 606.4,
+      "text": " so as you will move forward in the videos,"
+    },
+    {
+      "number": "11",
+      "title": "Semantic Tags  in HTML",
+      "start": 606.4,
+      "end": 609.4,
+      "text": " you will get all the code here video wise."
+    },
+    {
+      "number": "11",
+      "title": "Semantic Tags  in HTML",
+      "start": 609.4,
+      "end": 611.4,
+      "text": " So, do start this repository,"
+    },
+    {
+      "number": "11",
+      "title": "Semantic Tags  in HTML",
+      "start": 611.4,
+      "end": 613.4,
+      "text": " if you haven't done it yet,"
+    },
+    {
+      "number": "11",
+      "title": "Semantic Tags  in HTML",
+      "start": 613.4,
+      "end": 615.4,
+      "text": " and also like the video,"
+    },
+    {
+      "number": "11",
+      "title": "Semantic Tags  in HTML",
+      "start": 615.4,
+      "end": 617.4,
+      "text": " thank you so much guys for watching this video,"
+    },
+    {
+      "number": "11",
+      "title": "Semantic Tags  in HTML",
+      "start": 617.4,
+      "end": 619.4,
+      "text": " and I will see you next time."
+    },
+    {
+      "number": "11",
+      "title": "Semantic Tags  in HTML",
+      "start": 636.4,
+      "end": 637.4,
+      "text": " ."
+    }
+  ],
+  "text": " What's the matter? You guys have come to the 11th video in the Sigma Web Development course. We have completed 10 videos. So, one like is made for everyone's consistency. In today's video, we will see about Semantic Tax. Because SEO is very important for us. And to understand the structure of the overall website, Search engines are very happy to see this structure. That is, overall SEO is going to be very good for your website if you use these tags. What are these tags? Why are these tags? How to use them? What is the benefit of this video? Let's go to the computer screen. Let's roll the intro. So guys, first of all, I would like to tell you what is going on. Here you can see that I have made a folder in the name of video 11. And here I have set an index.html boilerplate template. I have set the title, H1 and set this image. I am going to preview it here. So, to explain this image a little, I will tell you what are Semantic Tax. Semantic Tags for browsers and web crawlers. Which want to understand your website properly. They want to tell you what is the content of your website and what is the purpose of which place and which tag. If you do not use Semantic Tags in HTML, then your work will be done. It is not that if you do not use Semantic Tags, then your website will not look good. You can do good designing. But we want to explain to Google search engines, Bing search engines about our website. And if we explain them about our website, then they will be able to understand our website. And they will rank our website on Google, Bing, and on respective search engines. And we want that the crawlers understand our website. And we want that whatever our website wants to understand, they can understand it properly. That is why there are some special tags like header, nav, main, article, figure. All these special tags are made in HTML which helps you to structure your website. Now if there is anything in the header, then I know that this is the header, that is at the top. If there is anything in the footer, then I will understand that the website has started ending from here. This footer started here. This footer could have been a div too, but no. If I am using Semantic HTML, then I will use the footer tag. And along with that, I was making my navigation bar in the span tag. This time I will not make my navigation bar in the span tag. I will make my navigation bar in the nav tag. So these kinds of differences make our search engines understand our website well. So I will show you some examples of Semantic tags here. And I hope you understood what Semantic tags are. Now look at the downloaded folders of our computer. Some of you might have noticed that the download folder of the world is in the same folder. 90% of your computer files are downloaded folders of many people. But we should not do that. Some people go through this to the limit that they start sending files in their local disc, in Windows folder. And some people also keep files in System32. So if you send your files to your computer, then it will not be arranged in one way. But if you arrange your files in folders, then it is in one folder. If you want to keep a secret file in a folder, then you can put it in a secret file. If you want to make a folder, then you can put some files in it. So it will be arranged in one way. You have arranged images in one way, you have arranged videos in one way, and you have arranged ebooks in one way. So whenever you go to search, you will get it. So to understand that, it will be better to use that folder structure instead of sending your files throughout the computer. You will definitely not want to send your files throughout the computer. So I hope you understand why we use Semantic Tags. This is very good for SEO. So I have not used SEO word yet. But SEO search engine optimization is a very important part of using Semantic Tags. So what happens? Basically, the way you make your website, you just use some special tags. For example, let's say I am making this website. I will comment out this image here. I will not comment out this image. I will make a nav here. So what I will do is, first of all, I will say that this is the header of my website. I have used it in a header tag. I will make a nav in it. I will make an unordered list in it. I will make an ally in it. I will write home here. I am writing a lot of letters in it. And this is my header. So any of my website pack will understand that this is my header. Home, about, contact, whatever I want to write, I can write here. So this is my header. This is my nav bar. This is clearly known because I have used header and nav tags. So I write about here. And I write contact here. So I wrote home here, wrote about here and wrote contact here. So I hope you understand this. Now if I want to make a footer, I want to make a footer. Here my main content will come after the header. So I will use the main tag. And after that, I will write in my footer. Copyright CWH And here I will write All rights reserved. I can write like this. So here, see copyright, All rights reserved. I have written all this here. So I will do this, I will cut this. I will put it in the main. This is my main content. So first my header will come, then the main content will come, then the footer will come. As you can see here. And here you can see here this is the header. This is my main content, this is the footer. So in one way, I arranged it. In a way, you arrange your files in different folders. I arranged my HTML tags here. So we understood about the header tag that it is used to represent the top section of a web page. The header is there. Then after that, we will put nav, which is navigation menu on our page. We will put that in the nav tag ideally. Article indicates a self-containing piece of content such as blog post or news article. If you put a particular self-contained piece of content, then put it in the article tag. Section represents a thematic grouping. Suppose, one section is talking about something on your page, then the other section will talk about something else. Aside, aside means if anything is on one side, then they use aside tag. Here, see typically used for sidebars or content that is tangentially related to the main content. For example, what you can do on this aside tag is that you have to put a side note about the author. I have seen many blogs where it is written on the side about the author. You can put such things as aside tags. Then after this, we have the footer tag. I have told you about it. Copyright information, if you want to put all these things. Or if you want to put some important links on the website, then you can put them in the footer. Then after this, figure and pick caption. What is figure and pick caption? You can also use images, diagrams, charts, all these things. The main content area in the main content area, like the main content area of our speech, is that we put it in the main tag. Then there is the time tag, used to represent time related information. You can use the time tag, you can put date, time or anything. So, I hope you have understood this. So, these are used to enhance SEO, to improve accessibility. If you want to take a decision about a browser, let's say there is a browser, and it has a new feature, it will read our content aloud. Like the feature is on the edge. So, the browser can decide that I am reading the main content. Think about how to read the content aloud. Code with Harry, Home, Code, Cis, Tutorial. You don't want to read aloud like this. You want the main content to be read, like HTML, Semantic Tags. HTML5 Introduce, Range of Semantic Tags and so on. The first versions of our HTML, were not Semantic Tags. Semantic Tags were introduced by HTML5. And the most important reason to introduce Semantic Tags in HTML5 is to arrange things. So that the browsers, or the content that is parsing, who are watching the content, like browser, crawler, Google, Bing, search engines, or anyone who wants to generate preview, like you put URL on Twitter, or you want to generate preview, if you have such things, then you will want to be able to understand your content well. So, if you want to understand your content well, then you will use Semantic Tags. Or this image is very good, it is explaining that without Semantic Tags, if you write like this in HTML, then you will write like this. The image you see, this header, this nav, this side, how to put something in the side, we will do it with CSS. Don't get confused, this is not used for styling, because a lot of people are confused, that is not the case, that aside tag, it is used to do things, no, it is not like that. You will have to style the things with CSS only, but here, your content can be understood well, described well, which main content, which header, which foot, that is why Semantic Tags are made. So, Semantic Tags are not made by any magic, Semantic Tags are made only for accessibility, and to understand your page. Now, here are some examples, which you can see. I have given the example of header and foot attack here, what will happen in the header, or you see that you will put your navigation bar ideally in the header, and then you will style it with CSS. I will show you a very quick styling, obviously, we will do it later after styling, but a lot of people will be confused, how will this navigation bar be horizontal? So, if you want to horizontalize the navigation bar, then I will write some CSS here, and I will tell you all this, why CSS works here. So, you see, I flexed the display, and it happened like this, so, there will be a lot of things in the coming videos, so, you don't have to worry about it, we didn't do this, that, that, I will tell you everything. And what does this CSS mean here? Why did I write CSS by inspecting it? I will tell you about this, I will reload it, why it went away, we will see it in the CSS section. If you haven't done this playlist yet, then do it, bookmark it, click here and save it, and I am going to upload all the code, so as you will move forward in the videos, you will get all the code here video wise. So, do start this repository, if you haven't done it yet, and also like the video, thank you so much guys for watching this video, and I will see you next time. ."
+}

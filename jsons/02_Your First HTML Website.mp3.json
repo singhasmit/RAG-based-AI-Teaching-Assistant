@@ -1,0 +1,5843 @@
+{
+  "chunks": [
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 0.0,
+      "end": 2.64,
+      "text": " In the last video, you guys gave me a lot of love."
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 2.64,
+      "end": 5.04,
+      "text": " It's my pleasure to keep this course free."
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 5.04,
+      "end": 6.7,
+      "text": " A like is a must for this free course."
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 6.7,
+      "end": 8.46,
+      "text": " You know, when I started web development,"
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 8.46,
+      "end": 10.8,
+      "text": " this quality was not comprehensive course."
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 10.8,
+      "end": 13.5,
+      "text": " Forget free or paid, it was not such course."
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 13.5,
+      "end": 15.6,
+      "text": " So I can understand that being free of this course"
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 15.6,
+      "end": 17.7,
+      "text": " is so important for some people."
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 17.7,
+      "end": 20.04,
+      "text": " And trust me, I live up to the expectations."
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 20.04,
+      "end": 21.7,
+      "text": " With that said, like this video"
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 21.7,
+      "end": 24.44,
+      "text": " because we are going to make our first website in this video."
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 24.44,
+      "end": 28.94,
+      "text": " In this video, I am going to order iPhone 15 Pro Max."
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 28.94,
+      "end": 31.900000000000002,
+      "text": " And you will see how it is in the next video."
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 31.900000000000002,
+      "end": 35.300000000000004,
+      "text": " For many of you, this will be your first website in your life."
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 35.300000000000004,
+      "end": 36.6,
+      "text": " So it's going to be very fun."
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 36.6,
+      "end": 38.0,
+      "text": " You guys are excited, right?"
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 38.0,
+      "end": 39.400000000000006,
+      "text": " Write in the comments. I am excited."
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 39.400000000000006,
+      "end": 42.900000000000006,
+      "text": " And I will hurt all the comments that I am excited about."
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 42.900000000000006,
+      "end": 43.5,
+      "text": " I will give my heart."
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 43.5,
+      "end": 45.400000000000006,
+      "text": " In this video, we will learn to link an HTML website"
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 45.400000000000006,
+      "end": 47.900000000000006,
+      "text": " with CSS and JavaScript."
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 47.900000000000006,
+      "end": 50.14,
+      "text": " Along with that, in this video, I am going to give you guys"
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 50.14,
+      "end": 53.2,
+      "text": " notes, cheat sheet and many other resources."
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 53.2,
+      "end": 55.1,
+      "text": " I will tell you guys some of the such techniques"
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 55.1,
+      "end": 56.84,
+      "text": " which I have learned in years."
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 56.900000000000006,
+      "end": 60.900000000000006,
+      "text": " And we will literally do 10x speed of your web development."
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 60.900000000000006,
+      "end": 64.4,
+      "text": " We will also see in this video how to make our VS Code awesome."
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 64.4,
+      "end": 67.4,
+      "text": " That your VS Code screen will look killer."
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 67.4,
+      "end": 70.4,
+      "text": " In this video, I will also tell you how to earn money"
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 70.4,
+      "end": 71.9,
+      "text": " from web development."
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 71.9,
+      "end": 73.9,
+      "text": " So let's start with full energy."
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 73.9,
+      "end": 75.4,
+      "text": " Let's roll the intro."
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 75.4,
+      "end": 84.4,
+      "text": " Music"
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 84.4,
+      "end": 87.4,
+      "text": " Alright guys, so we have come to our computer screen."
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 87.4,
+      "end": 89.4,
+      "text": " Before we move on to the video, I would like to tell you"
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 89.4,
+      "end": 91.4,
+      "text": " that you should access this playlist."
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 91.4,
+      "end": 93.4,
+      "text": " Secondly, we are very close to 5 million subscribers."
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 93.4,
+      "end": 96.4,
+      "text": " So if you haven't subscribed yet, do it."
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 96.4,
+      "end": 99.4,
+      "text": " In today's video, we are going to make our first website"
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 99.4,
+      "end": 101.4,
+      "text": " as I already told you."
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 101.4,
+      "end": 103.4,
+      "text": " So the first thing we will do is"
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 103.4,
+      "end": 105.4,
+      "text": " to customize our VS Code."
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 105.4,
+      "end": 107.4,
+      "text": " So this is the folder in which we started"
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 107.4,
+      "end": 109.4,
+      "text": " our web development series."
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 109.4,
+      "end": 111.4,
+      "text": " Now I want to give you guys the source code"
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 111.4,
+      "end": 113.4,
+      "text": " of this web development series."
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 113.4,
+      "end": 115.4,
+      "text": " So I will configure the Git."
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 115.4,
+      "end": 117.4,
+      "text": " For you guys, it is not necessary to know"
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 117.4,
+      "end": 119.4,
+      "text": " about Git at all."
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 119.4,
+      "end": 121.4,
+      "text": " But I will fire the GitHub desktop."
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 121.4,
+      "end": 123.4,
+      "text": " And here I will add"
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 123.4,
+      "end": 125.4,
+      "text": " a new repository."
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 125.4,
+      "end": 127.4,
+      "text": " I will click on add."
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 127.4,
+      "end": 129.4,
+      "text": " I will click on create new repository."
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 129.4,
+      "end": 131.4,
+      "text": " I will name it."
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 131.4,
+      "end": 133.4,
+      "text": " I will name it Sigma Web Dev Course."
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 133.4,
+      "end": 135.4,
+      "text": " And this is our folder."
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 135.4,
+      "end": 137.4,
+      "text": " So I will select this folder."
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 137.4,
+      "end": 139.4,
+      "text": " Initialize this repository with"
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 139.4,
+      "end": 141.4,
+      "text": " GridMe. And here I will write"
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 141.4,
+      "end": 143.4,
+      "text": " source code for Sigma Web Development Course."
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 143.4,
+      "end": 145.4,
+      "text": " I will click on create repository."
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 145.4,
+      "end": 147.4,
+      "text": " This will make our repository"
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 147.4,
+      "end": 149.4,
+      "text": " which is called Sigma Web Dev Course."
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 149.4,
+      "end": 151.4,
+      "text": " The first relevant things from the first video"
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 151.4,
+      "end": 153.4,
+      "text": " I will put them here."
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 153.4,
+      "end": 155.4,
+      "text": " These were the files. The first relevant"
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 155.4,
+      "end": 157.4,
+      "text": " from the first video. So I will name it"
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 157.4,
+      "end": 159.4,
+      "text": " Video1. Right Click New Folder."
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 159.4,
+      "end": 161.4,
+      "text": " I will name it Video1."
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 161.4,
+      "end": 163.4,
+      "text": " And I will move these files in Video1 folder."
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 163.4,
+      "end": 165.4,
+      "text": " I am not pushing this video on all the"
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 165.4,
+      "end": 167.4,
+      "text": " Git. You can use your sample videos."
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 167.4,
+      "end": 169.4,
+      "text": " So now I will update"
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 169.4,
+      "end": 171.4,
+      "text": " the source code here."
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 171.4,
+      "end": 173.4,
+      "text": " And I will push it on the Git."
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 173.4,
+      "end": 175.4,
+      "text": " How to push it on the Git."
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 175.4,
+      "end": 177.4,
+      "text": " You guys don't need to learn this."
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 177.4,
+      "end": 179.4,
+      "text": " But this procedure is very simple."
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 179.4,
+      "end": 181.4,
+      "text": " I will tell you why I use Git."
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 181.4,
+      "end": 183.4,
+      "text": " I will tell you why I use Git."
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 183.4,
+      "end": 185.4,
+      "text": " We use the general coders."
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 185.4,
+      "end": 187.4,
+      "text": " When they have to"
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 187.4,
+      "end": 189.4,
+      "text": " collaborate with other people."
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 189.4,
+      "end": 191.4,
+      "text": " So what will happen is that you"
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 191.4,
+      "end": 193.4,
+      "text": " will work with many programmers."
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 193.4,
+      "end": 195.4,
+      "text": " And those programmers will collaborate"
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 195.4,
+      "end": 197.4,
+      "text": " with your source code."
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 197.4,
+      "end": 199.4,
+      "text": " And to do this kind of collaboration"
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 199.4,
+      "end": 201.4,
+      "text": " they will also push some code."
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 201.4,
+      "end": 203.4,
+      "text": " You will also push some code."
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 203.4,
+      "end": 205.4,
+      "text": " Maybe a person is editing a file."
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 205.4,
+      "end": 207.4,
+      "text": " If a person is editing another file."
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 207.4,
+      "end": 209.4,
+      "text": " So here the GitHub is used."
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 209.4,
+      "end": 211.4,
+      "text": " And what is GitHub Desktop?"
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 211.4,
+      "end": 213.4,
+      "text": " GitHub Desktop is a utility to use Git."
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 213.4,
+      "end": 215.4,
+      "text": " In Git and GitHub, the difference is that"
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 215.4,
+      "end": 217.4,
+      "text": " GitHub is a Microsoft owned company."
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 217.4,
+      "end": 219.4,
+      "text": " Which is used to use Git."
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 219.4,
+      "end": 221.4,
+      "text": " Repositories help you to"
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 221.4,
+      "end": 223.4,
+      "text": " host on your web interface."
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 223.4,
+      "end": 225.4,
+      "text": " In the upcoming videos about Git"
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 225.4,
+      "end": 227.4,
+      "text": " I will tell you more."
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 227.4,
+      "end": 229.4,
+      "text": " But I am pushing this repository on"
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 229.4,
+      "end": 231.4,
+      "text": " the code with the GitHub account."
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 231.4,
+      "end": 233.4,
+      "text": " The link in the description"
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 233.4,
+      "end": 235.4,
+      "text": " will be given to the repository."
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 235.4,
+      "end": 237.4,
+      "text": " So as soon as I give you the links."
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 237.4,
+      "end": 239.4,
+      "text": " You will get the code if you follow it."
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 239.4,
+      "end": 241.4,
+      "text": " And I will talk about it."
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 241.4,
+      "end": 243.4,
+      "text": " I am making this video course"
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 243.4,
+      "end": 245.4,
+      "text": " so I will click on the Publisher repository."
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 245.4,
+      "end": 247.4,
+      "text": " The code will sink"
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 247.4,
+      "end": 249.4,
+      "text": " from the GitHub account."
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 249.4,
+      "end": 251.4,
+      "text": " So the code that I am going to upload"
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 251.4,
+      "end": 253.4,
+      "text": " will go to the GitHub account"
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 253.4,
+      "end": 255.4,
+      "text": " and it will sink."
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 255.4,
+      "end": 257.4,
+      "text": " The changes that will be there."
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 257.4,
+      "end": 259.4,
+      "text": " If someone has changed it."
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 259.4,
+      "end": 261.4,
+      "text": " I can pull it here."
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 261.4,
+      "end": 263.4,
+      "text": " I will teach you all this."
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 263.4,
+      "end": 265.4,
+      "text": " I will dedicate a video to Git."
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 265.4,
+      "end": 267.4,
+      "text": " Don't worry. I did this"
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 267.4,
+      "end": 269.4,
+      "text": " so that I can give you the code."
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 269.4,
+      "end": 271.4,
+      "text": " I will make a video 2 folder."
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 271.4,
+      "end": 273.4,
+      "text": " I will go inside."
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 273.4,
+      "end": 275.4,
+      "text": " I will click on Shift and open with VS Code."
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 275.4,
+      "end": 277.4,
+      "text": " So here it is open with code."
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 277.4,
+      "end": 279.4,
+      "text": " You will get this option."
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 279.4,
+      "end": 281.4,
+      "text": " As I have told you."
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 281.4,
+      "end": 283.4,
+      "text": " If you have changed it."
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 283.4,
+      "end": 285.4,
+      "text": " And you have not checked it."
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 285.4,
+      "end": 287.4,
+      "text": " You can have a problem."
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 287.4,
+      "end": 289.4,
+      "text": " We will dismiss it."
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 289.4,
+      "end": 291.4,
+      "text": " I will make the file here."
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 291.4,
+      "end": 293.4,
+      "text": " I will make the index."
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 293.4,
+      "end": 295.4,
+      "text": " That file will be made here."
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 295.4,
+      "end": 297.4,
+      "text": " So you all know about it."
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 297.4,
+      "end": 299.4,
+      "text": " I know a lot of intermediate people here."
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 299.4,
+      "end": 301.4,
+      "text": " We already know all this."
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 301.4,
+      "end": 303.4,
+      "text": " But I am making this code."
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 303.4,
+      "end": 305.4,
+      "text": " So that all beginners can follow along."
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 305.4,
+      "end": 307.4,
+      "text": " So I will make it here from 3 files."
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 307.4,
+      "end": 309.4,
+      "text": " I made the index.html here."
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 309.4,
+      "end": 311.4,
+      "text": " The second file I am going to make is style.css."
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 311.4,
+      "end": 313.4,
+      "text": " And the third file I am going to make is script.js."
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 313.4,
+      "end": 315.4,
+      "text": " And the name of these files can be anything."
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 315.4,
+      "end": 317.4,
+      "text": " But I just want to keep these files self-explanatory."
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 317.4,
+      "end": 319.4,
+      "text": " So that they can see the name and know what they are doing."
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 319.4,
+      "end": 321.4,
+      "text": " Index.html file."
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 321.4,
+      "end": 323.4,
+      "text": " Script.js."
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 323.4,
+      "end": 325.4,
+      "text": " Java script file."
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 325.4,
+      "end": 327.4,
+      "text": " Style.css."
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 327.4,
+      "end": 329.4,
+      "text": " So I made these 3 files here."
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 329.4,
+      "end": 331.4,
+      "text": " I will go to index.html and put the exclamation mark."
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 331.4,
+      "end": 333.4,
+      "text": " And as soon as I put the exclamation mark."
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 333.4,
+      "end": 335.4,
+      "text": " You see this code is here."
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 335.4,
+      "end": 337.4,
+      "text": " I will click on view word wrap."
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 337.4,
+      "end": 339.4,
+      "text": " So that you can see the code."
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 339.4,
+      "end": 341.4,
+      "text": " The horizontal scroll bar is removed from the word wrap."
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 341.4,
+      "end": 343.4,
+      "text": " I checked the word wrap."
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 343.4,
+      "end": 345.4,
+      "text": " So here you all see."
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 345.4,
+      "end": 347.4,
+      "text": " That we will understand this code."
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 347.4,
+      "end": 349.4,
+      "text": " But for now you can understand that this code."
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 349.4,
+      "end": 351.4,
+      "text": " This code."
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 351.4,
+      "end": 353.4,
+      "text": " This code."
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 353.4,
+      "end": 355.4,
+      "text": " We will use it to make a website."
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 355.4,
+      "end": 357.4,
+      "text": " Now let's go to the extension tab of VS Code."
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 357.4,
+      "end": 359.4,
+      "text": " Extensions."
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 359.4,
+      "end": 361.4,
+      "text": " They are used to enhance the functionality of VS Code."
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 361.4,
+      "end": 363.4,
+      "text": " We use extensions."
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 363.4,
+      "end": 365.4,
+      "text": " We use them to make VS Code better."
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 365.4,
+      "end": 367.4,
+      "text": " We use extensions."
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 367.4,
+      "end": 369.4,
+      "text": " We use extensions."
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 369.4,
+      "end": 371.4,
+      "text": " We write code to help us."
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 371.4,
+      "end": 373.4,
+      "text": " We use extensions."
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 373.4,
+      "end": 375.4,
+      "text": " So which extension we will use."
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 375.4,
+      "end": 377.4,
+      "text": " I will put it first."
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 377.4,
+      "end": 379.4,
+      "text": " Some extensions."
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 379.4,
+      "end": 381.4,
+      "text": " So that our VS Code will become killer."
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 381.4,
+      "end": 383.4,
+      "text": " If your friends have seen it."
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 383.4,
+      "end": 385.4,
+      "text": " So what I will do now."
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 385.4,
+      "end": 387.4,
+      "text": " VS Code Icons."
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 387.4,
+      "end": 389.4,
+      "text": " Okay."
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 389.4,
+      "end": 391.4,
+      "text": " There is an extension called VS Code Icons."
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 391.4,
+      "end": 393.4,
+      "text": " Which I will install."
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 393.4,
+      "end": 395.4,
+      "text": " You will know."
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 395.4,
+      "end": 397.4,
+      "text": " Whatever files you are seeing."
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 397.4,
+      "end": 399.4,
+      "text": " The icon is here."
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 399.4,
+      "end": 401.4,
+      "text": " You will see the icon here."
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 401.4,
+      "end": 403.4,
+      "text": " Thanks for installing VS Code Icons."
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 403.4,
+      "end": 405.4,
+      "text": " I will activate it."
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 405.4,
+      "end": 407.4,
+      "text": " And you can see."
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 407.4,
+      "end": 409.4,
+      "text": " That our icons are looking good."
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 409.4,
+      "end": 411.4,
+      "text": " If we make a folder in the coming time."
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 411.4,
+      "end": 413.4,
+      "text": " If we make a folder."
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 413.4,
+      "end": 415.4,
+      "text": " Then the icon will look good."
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 415.4,
+      "end": 417.4,
+      "text": " We will come back to the extension tab."
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 417.4,
+      "end": 419.4,
+      "text": " And there are many good themes here."
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 419.4,
+      "end": 421.4,
+      "text": " Which you can use."
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 421.4,
+      "end": 423.4,
+      "text": " Some are jellyfish themes."
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 423.4,
+      "end": 425.4,
+      "text": " One is GitHub themes."
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 425.4,
+      "end": 427.4,
+      "text": " You can use these themes."
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 427.4,
+      "end": 429.4,
+      "text": " But I can only use one theme at a time."
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 429.4,
+      "end": 431.4,
+      "text": " This is the theme of default VS Code."
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 431.4,
+      "end": 433.4,
+      "text": " Which shows you VS Code."
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 433.4,
+      "end": 435.4,
+      "text": " If I change my theme."
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 435.4,
+      "end": 437.4,
+      "text": " My VS Code will look different."
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 437.4,
+      "end": 439.4,
+      "text": " I will show you."
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 439.4,
+      "end": 441.4,
+      "text": " I will show you which one I will prefer."
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 441.4,
+      "end": 443.4,
+      "text": " When it comes to themes."
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 443.4,
+      "end": 445.4,
+      "text": " I will show you the GitHub theme."
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 445.4,
+      "end": 447.4,
+      "text": " How it looks."
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 447.4,
+      "end": 449.4,
+      "text": " The official GitHub theme."
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 449.4,
+      "end": 451.4,
+      "text": " The theme is given."
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 451.4,
+      "end": 453.4,
+      "text": " Here is GitHub Dark."
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 453.4,
+      "end": 455.4,
+      "text": " GitHub Light."
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 455.4,
+      "end": 457.4,
+      "text": " GitHub Dipped."
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 457.4,
+      "end": 459.4,
+      "text": " I think this one looks better."
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 459.4,
+      "end": 461.4,
+      "text": " Because the colors in this."
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 461.4,
+      "end": 463.4,
+      "text": " Sorry. I will choose GitHub Dark."
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 463.4,
+      "end": 465.4,
+      "text": " Because the colors here are different."
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 465.4,
+      "end": 467.4,
+      "text": " The colors in this are different."
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 467.4,
+      "end": 469.4,
+      "text": " The theme you will like."
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 469.4,
+      "end": 471.4,
+      "text": " Is Jellyfish."
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 471.4,
+      "end": 473.4,
+      "text": " Jellyfish theme looks good."
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 473.4,
+      "end": 475.4,
+      "text": " If I install this."
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 475.4,
+      "end": 477.4,
+      "text": " You can see the VS Code."
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 477.4,
+      "end": 479.4,
+      "text": " Jellyfish."
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 479.4,
+      "end": 481.4,
+      "text": " The material theme is also popular."
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 481.4,
+      "end": 483.4,
+      "text": " If I use the material theme."
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 483.4,
+      "end": 485.4,
+      "text": " Material theme."
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 485.4,
+      "end": 487.4,
+      "text": " Material theme icons."
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 487.4,
+      "end": 489.4,
+      "text": " We have to install this."
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 489.4,
+      "end": 491.4,
+      "text": " If you have installed the material theme icons."
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 491.4,
+      "end": 493.4,
+      "text": " You can change the icons."
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 493.4,
+      "end": 495.4,
+      "text": " And here we have installed many extensions."
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 495.4,
+      "end": 497.4,
+      "text": " You can also tell how to delete the extensions."
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 497.4,
+      "end": 499.4,
+      "text": " Here I am showing the material theme icons."
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 499.4,
+      "end": 501.4,
+      "text": " And if you want."
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 501.4,
+      "end": 503.4,
+      "text": " You can use the VS Code icons."
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 503.4,
+      "end": 505.4,
+      "text": " If I want."
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 505.4,
+      "end": 507.4,
+      "text": " Material themes icons."
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 507.4,
+      "end": 509.4,
+      "text": " They will move away from me."
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 509.4,
+      "end": 511.4,
+      "text": " So I will remove this."
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 511.4,
+      "end": 513.4,
+      "text": " And here."
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 513.4,
+      "end": 515.4,
+      "text": " You can see the extensions."
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 515.4,
+      "end": 517.4,
+      "text": " Material theme icons."
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 517.4,
+      "end": 519.4,
+      "text": " I will select this one."
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 519.4,
+      "end": 521.4,
+      "text": " And if I want."
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 521.4,
+      "end": 523.4,
+      "text": " I can uninstall it."
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 523.4,
+      "end": 525.4,
+      "text": " If I want."
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 525.4,
+      "end": 527.4,
+      "text": " I will have to click on Reload Required."
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 527.4,
+      "end": 529.4,
+      "text": " And when I click on Reload Required."
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 529.4,
+      "end": 531.4,
+      "text": " My VS Code will be reloaded."
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 531.4,
+      "end": 533.4,
+      "text": " You can customize your VS Code."
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 533.4,
+      "end": 535.4,
+      "text": " I will select the VS Code icons."
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 535.4,
+      "end": 537.4,
+      "text": " So that I can see the icons."
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 537.4,
+      "end": 539.4,
+      "text": " I like this."
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 539.4,
+      "end": 541.4,
+      "text": " Jellyfish theme is also popular."
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 541.4,
+      "end": 543.4,
+      "text": " And here we have another extension."
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 543.4,
+      "end": 545.4,
+      "text": " Its name is Prettier."
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 545.4,
+      "end": 547.4,
+      "text": " I will not install it."
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 547.4,
+      "end": 549.4,
+      "text": " But I just want to tell you."
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 549.4,
+      "end": 551.4,
+      "text": " Another extension is ES7."
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 551.4,
+      "end": 553.4,
+      "text": " We will react in this course."
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 553.4,
+      "end": 555.4,
+      "text": " Sorry for the spoilers."
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 555.4,
+      "end": 557.4,
+      "text": " But we will react in this course."
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 557.4,
+      "end": 559.4,
+      "text": " ES7 plus react Redux."
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 559.4,
+      "end": 561.4,
+      "text": " React Native Snippets."
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 561.4,
+      "end": 563.4,
+      "text": " This extension gives you the react snippets."
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 563.4,
+      "end": 565.4,
+      "text": " We will use it only when we will react."
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 565.4,
+      "end": 567.4,
+      "text": " We will not install it for now."
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 567.4,
+      "end": 569.4,
+      "text": " But the most important extension."
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 569.4,
+      "end": 571.4,
+      "text": " Its name is Live Preview."
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 571.4,
+      "end": 573.4,
+      "text": " We will install this extension."
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 573.4,
+      "end": 575.4,
+      "text": " Because it is a very useful extension."
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 575.4,
+      "end": 577.4,
+      "text": " The extensions I have told you."
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 577.4,
+      "end": 579.4,
+      "text": " Mostly they help you."
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 579.4,
+      "end": 581.4,
+      "text": " To change the look and feel of this code."
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 581.4,
+      "end": 583.4,
+      "text": " But today I am telling you."
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 583.4,
+      "end": 585.4,
+      "text": " Live Preview."
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 585.4,
+      "end": 587.4,
+      "text": " You will actually use it."
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 587.4,
+      "end": 589.4,
+      "text": " Let's come to our HTML, CSS and JavaScript files."
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 589.4,
+      "end": 591.4,
+      "text": " So these are our HTML, CSS and JavaScript files."
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 591.4,
+      "end": 593.4,
+      "text": " This is HTML file."
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 593.4,
+      "end": 595.4,
+      "text": " This is some code."
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 595.4,
+      "end": 597.4,
+      "text": " Which tells you how to see the website."
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 597.4,
+      "end": 599.4,
+      "text": " Okay."
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 599.4,
+      "end": 601.4,
+      "text": " I am saying that there should be a document in the title."
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 601.4,
+      "end": 603.4,
+      "text": " I will write here."
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 603.4,
+      "end": 605.4,
+      "text": " The first website of Harry."
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 605.4,
+      "end": 607.4,
+      "text": " The first website of Harry."
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 607.4,
+      "end": 609.4,
+      "text": " The first website of the course."
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 609.4,
+      "end": 611.4,
+      "text": " Harry's first website will be a lie."
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 611.4,
+      "end": 613.4,
+      "text": " Your first website."
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 613.4,
+      "end": 615.4,
+      "text": " Write your name in it."
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 615.4,
+      "end": 617.4,
+      "text": " And if I write in the body."
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 617.4,
+      "end": 619.4,
+      "text": " This is my first website."
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 619.4,
+      "end": 621.4,
+      "text": " And everyone write in the comments."
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 621.4,
+      "end": 623.4,
+      "text": " Congratulations."
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 623.4,
+      "end": 625.4,
+      "text": " Write all the first websites."
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 625.4,
+      "end": 627.4,
+      "text": " Congratulations for my first website."
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 627.4,
+      "end": 629.4,
+      "text": " And congratulate each other."
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 629.4,
+      "end": 631.4,
+      "text": " Make a mood in the comment section."
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 631.4,
+      "end": 633.4,
+      "text": " I will also come in the comment section."
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 633.4,
+      "end": 635.4,
+      "text": " And I will give you all the heart."
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 635.4,
+      "end": 637.4,
+      "text": " Now."
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 637.4,
+      "end": 639.4,
+      "text": " Let's see how to do this."
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 639.4,
+      "end": 641.4,
+      "text": " The biggest question of people."
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 641.4,
+      "end": 643.4,
+      "text": " There are two ways to see."
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 643.4,
+      "end": 645.4,
+      "text": " The one that we have installed live server."
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 645.4,
+      "end": 647.4,
+      "text": " Live preview."
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 647.4,
+      "end": 649.4,
+      "text": " The live server used to work."
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 649.4,
+      "end": 651.4,
+      "text": " But Microsoft released live preview."
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 651.4,
+      "end": 653.4,
+      "text": " So I will recommend the latest extension."
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 653.4,
+      "end": 655.4,
+      "text": " This is also live server."
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 655.4,
+      "end": 657.4,
+      "text": " But I am not going to run live server."
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 657.4,
+      "end": 659.4,
+      "text": " I am going to use live preview."
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 659.4,
+      "end": 661.4,
+      "text": " After installing live preview."
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 661.4,
+      "end": 663.4,
+      "text": " You can see this icon."
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 663.4,
+      "end": 665.4,
+      "text": " I will show you this website."
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 665.4,
+      "end": 667.4,
+      "text": " Because my website will be in the browser."
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 667.4,
+      "end": 669.4,
+      "text": " So if you want to see this in the browser."
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 669.4,
+      "end": 671.4,
+      "text": " Click here."
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 671.4,
+      "end": 673.4,
+      "text": " Open in browser."
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 673.4,
+      "end": 675.4,
+      "text": " And tell me something interesting."
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 675.4,
+      "end": 677.4,
+      "text": " You can close it."
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 677.4,
+      "end": 679.4,
+      "text": " You can write here."
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 679.4,
+      "end": 681.4,
+      "text": " The course of Harry."
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 681.4,
+      "end": 683.4,
+      "text": " You can write."
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 683.4,
+      "end": 685.4,
+      "text": " I am praising my course."
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 685.4,
+      "end": 687.4,
+      "text": " But yes."
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 687.4,
+      "end": 689.4,
+      "text": " I wrote here."
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 689.4,
+      "end": 691.4,
+      "text": " And you noticed one thing."
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 691.4,
+      "end": 693.4,
+      "text": " I didn't reload the website."
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 693.4,
+      "end": 695.4,
+      "text": " But after that."
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 695.4,
+      "end": 697.4,
+      "text": " I have updated this content."
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 697.4,
+      "end": 699.4,
+      "text": " Which I wrote in the code."
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 699.4,
+      "end": 701.4,
+      "text": " Which means I will write here."
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 701.4,
+      "end": 703.4,
+      "text": " Without reloading."
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 703.4,
+      "end": 705.4,
+      "text": " Will update here."
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 705.4,
+      "end": 707.4,
+      "text": " Will it happen or not?"
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 707.4,
+      "end": 709.4,
+      "text": " Play the music."
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 709.4,
+      "end": 711.4,
+      "text": " It will happen."
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 711.4,
+      "end": 713.4,
+      "text": " And here."
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 713.4,
+      "end": 715.4,
+      "text": " This is my first website."
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 715.4,
+      "end": 717.4,
+      "text": " Harry's course is good."
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 717.4,
+      "end": 719.4,
+      "text": " Now I will write here."
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 719.4,
+      "end": 721.4,
+      "text": " This is a good course of Harry."
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 721.4,
+      "end": 723.4,
+      "text": " This is a good course of Harry."
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 723.4,
+      "end": 725.4,
+      "text": " So here you have seen."
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 725.4,
+      "end": 727.4,
+      "text": " How this extension helped us."
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 727.4,
+      "end": 729.4,
+      "text": " If you reload it."
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 729.4,
+      "end": 731.4,
+      "text": " It will not make any difference."
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 731.4,
+      "end": 733.4,
+      "text": " Because it is being reloaded live."
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 733.4,
+      "end": 735.4,
+      "text": " Sometimes we want."
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 735.4,
+      "end": 737.4,
+      "text": " Our page."
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 737.4,
+      "end": 739.4,
+      "text": " It will be here."
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 739.4,
+      "end": 741.4,
+      "text": " So that you can see the white code."
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 741.4,
+      "end": 743.4,
+      "text": " Sometimes we want."
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 743.4,
+      "end": 745.4,
+      "text": " We can see our code here."
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 745.4,
+      "end": 747.4,
+      "text": " Because we want to see."
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 747.4,
+      "end": 749.4,
+      "text": " I am writing here."
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 749.4,
+      "end": 751.4,
+      "text": " This is a good course of Harry."
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 751.4,
+      "end": 753.4,
+      "text": " And this is a good course of SIGMA."
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 753.4,
+      "end": 755.4,
+      "text": " I will write here."
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 755.4,
+      "end": 757.4,
+      "text": " I will write here."
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 757.4,
+      "end": 759.4,
+      "text": " And I can do it."
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 759.4,
+      "end": 761.4,
+      "text": " So I will see the live update here."
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 761.4,
+      "end": 763.4,
+      "text": " If you have seen my old videos."
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 763.4,
+      "end": 765.4,
+      "text": " I have used this extension."
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 765.4,
+      "end": 767.4,
+      "text": " Of the live server."
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 767.4,
+      "end": 769.4,
+      "text": " I didn't know this extension."
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 769.4,
+      "end": 771.4,
+      "text": " Whatever it is."
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 771.4,
+      "end": 773.4,
+      "text": " If you know something new."
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 773.4,
+      "end": 775.4,
+      "text": " You will know."
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 775.4,
+      "end": 777.4,
+      "text": " I use AC in daily life."
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 777.4,
+      "end": 779.4,
+      "text": " I do web development."
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 779.4,
+      "end": 781.4,
+      "text": " Many people ask me."
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 781.4,
+      "end": 783.4,
+      "text": " Do you also do web development?"
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 783.4,
+      "end": 785.4,
+      "text": " I do."
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 785.4,
+      "end": 787.4,
+      "text": " I don't make videos."
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 787.4,
+      "end": 789.4,
+      "text": " I do work."
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 789.4,
+      "end": 791.4,
+      "text": " I make websites."
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 791.4,
+      "end": 793.4,
+      "text": " All the code I am writing."
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 793.4,
+      "end": 795.4,
+      "text": " You will get it on the github."
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 795.4,
+      "end": 797.4,
+      "text": " You will go to any video description."
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 797.4,
+      "end": 799.4,
+      "text": " Any video description."
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 799.4,
+      "end": 801.4,
+      "text": " You will get the corresponding code."
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 801.4,
+      "end": 803.4,
+      "text": " You don't have to worry."
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 803.4,
+      "end": 805.4,
+      "text": " I will close this."
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 805.4,
+      "end": 807.4,
+      "text": " Because my preview is here."
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 807.4,
+      "end": 809.4,
+      "text": " Now understand HTML, CSS, JavaScript."
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 809.4,
+      "end": 811.4,
+      "text": " We talked about it."
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 811.4,
+      "end": 813.4,
+      "text": " In the previous video."
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 813.4,
+      "end": 815.4,
+      "text": " I will tell you how to link these three."
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 815.4,
+      "end": 817.4,
+      "text": " You have made index.html."
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 817.4,
+      "end": 819.4,
+      "text": " You can see the title."
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 819.4,
+      "end": 821.4,
+      "text": " The course of Harry."
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 821.4,
+      "end": 823.4,
+      "text": " First website."
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 823.4,
+      "end": 825.4,
+      "text": " I will do SIGMA web development course."
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 825.4,
+      "end": 827.4,
+      "text": " This will change."
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 827.4,
+      "end": 829.4,
+      "text": " SIGMA"
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 829.4,
+      "end": 831.4,
+      "text": " web development"
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 831.4,
+      "end": 833.4,
+      "text": " SIGMA web development course."
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 833.4,
+      "end": 835.4,
+      "text": " You can see."
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 835.4,
+      "end": 837.4,
+      "text": " This will be updated."
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 837.4,
+      "end": 839.4,
+      "text": " Live update."
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 839.4,
+      "end": 841.4,
+      "text": " Now I want the background to be red."
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 841.4,
+      "end": 843.4,
+      "text": " This is how CSS works."
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 843.4,
+      "end": 845.4,
+      "text": " I can write."
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 845.4,
+      "end": 847.4,
+      "text": " Body."
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 847.4,
+      "end": 849.4,
+      "text": " Background color red."
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 849.4,
+      "end": 851.4,
+      "text": " This is the syntax of CSS."
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 851.4,
+      "end": 853.4,
+      "text": " I will teach CSS."
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 853.4,
+      "end": 855.4,
+      "text": " I will teach it."
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 855.4,
+      "end": 857.4,
+      "text": " Don't worry."
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 857.4,
+      "end": 859.4,
+      "text": " This is CSS."
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 859.4,
+      "end": 861.4,
+      "text": " You can see."
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 861.4,
+      "end": 863.4,
+      "text": " Body color will be red or not."
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 863.4,
+      "end": 865.4,
+      "text": " I will tell beginners."
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 865.4,
+      "end": 867.4,
+      "text": " Why not?"
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 867.4,
+      "end": 869.4,
+      "text": " This HTML file is working."
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 869.4,
+      "end": 871.4,
+      "text": " This is CSS file."
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 871.4,
+      "end": 873.4,
+      "text": " I don't know what is going on in my house."
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 873.4,
+      "end": 875.4,
+      "text": " What do I know about my neighbor."
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 875.4,
+      "end": 877.4,
+      "text": " I made lentils."
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 877.4,
+      "end": 879.4,
+      "text": " I expect my neighbor to make rice."
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 879.4,
+      "end": 881.4,
+      "text": " I expect him to eat it."
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 881.4,
+      "end": 883.4,
+      "text": " I can eat it sometimes."
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 883.4,
+      "end": 885.4,
+      "text": " But I am not sure."
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 885.4,
+      "end": 887.4,
+      "text": " I have to link it."
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 887.4,
+      "end": 889.4,
+      "text": " I will have to link it."
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 889.4,
+      "end": 891.4,
+      "text": " I will have to go and tell my neighbor."
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 891.4,
+      "end": 893.4,
+      "text": " I will make lentils."
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 893.4,
+      "end": 895.4,
+      "text": " You will have to shake hands."
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 895.4,
+      "end": 897.4,
+      "text": " How will you shake hands?"
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 897.4,
+      "end": 899.4,
+      "text": " You will tell CSS file in HTML."
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 899.4,
+      "end": 901.4,
+      "text": " There is a link tag."
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 901.4,
+      "end": 903.4,
+      "text": " The reason for not using notepad."
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 903.4,
+      "end": 905.4,
+      "text": " You will know."
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 905.4,
+      "end": 907.4,
+      "text": " I will write link here."
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 907.4,
+      "end": 909.4,
+      "text": " I will select link colon CSS."
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 909.4,
+      "end": 911.4,
+      "text": " It did half of my work."
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 911.4,
+      "end": 913.4,
+      "text": " It wrote RL is equal to style."
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 913.4,
+      "end": 915.4,
+      "text": " I have to type manually in notepad."
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 915.4,
+      "end": 917.4,
+      "text": " I have to type in HTML."
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 917.4,
+      "end": 919.4,
+      "text": " But automatically"
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 919.4,
+      "end": 921.4,
+      "text": " it came."
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 921.4,
+      "end": 923.4,
+      "text": " This is my destiny."
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 923.4,
+      "end": 925.4,
+      "text": " This is style.css file."
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 925.4,
+      "end": 927.4,
+      "text": " If this is called Harry.css"
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 927.4,
+      "end": 929.4,
+      "text": " I would have written Harry.css."
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 929.4,
+      "end": 931.4,
+      "text": " Guess what?"
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 931.4,
+      "end": 933.4,
+      "text": " My background is red."
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 933.4,
+      "end": 935.4,
+      "text": " If I want to get white color text."
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 935.4,
+      "end": 937.4,
+      "text": " I can write color text."
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 937.4,
+      "end": 939.4,
+      "text": " Now nothing will work."
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 939.4,
+      "end": 941.4,
+      "text": " I have written color white."
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 941.4,
+      "end": 943.4,
+      "text": " This is white."
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 943.4,
+      "end": 945.4,
+      "text": " We will talk about this later."
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 945.4,
+      "end": 947.4,
+      "text": " This is our CSS file."
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 947.4,
+      "end": 949.4,
+      "text": " How will JavaScript work?"
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 949.4,
+      "end": 951.4,
+      "text": " If I write alert"
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 951.4,
+      "end": 953.4,
+      "text": " and I write"
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 953.4,
+      "end": 955.4,
+      "text": " Welcome to"
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 955.4,
+      "end": 957.4,
+      "text": " Sigma Web Development"
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 957.4,
+      "end": 959.4,
+      "text": " course."
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 959.4,
+      "end": 961.4,
+      "text": " What will happen?"
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 961.4,
+      "end": 963.4,
+      "text": " What will be the alert?"
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 963.4,
+      "end": 965.4,
+      "text": " Why did not alert?"
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 965.4,
+      "end": 967.4,
+      "text": " I will tell you that this syntax is absolutely correct."
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 967.4,
+      "end": 969.4,
+      "text": " There is no problem in syntax."
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 969.4,
+      "end": 971.4,
+      "text": " I will read JavaScript very well."
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 971.4,
+      "end": 973.4,
+      "text": " This is the code of JavaScript."
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 973.4,
+      "end": 975.4,
+      "text": " Welcome to Sigma Web Development"
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 975.4,
+      "end": 977.4,
+      "text": " course."
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 977.4,
+      "end": 979.4,
+      "text": " Why did not flash?"
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 979.4,
+      "end": 981.4,
+      "text": " Is my computer broken?"
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 981.4,
+      "end": 983.4,
+      "text": " No, my computer is absolutely correct."
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 983.4,
+      "end": 985.4,
+      "text": " I want to tell you that I have to"
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 985.4,
+      "end": 987.4,
+      "text": " include this script."
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 987.4,
+      "end": 989.4,
+      "text": " Let's include this script from the body."
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 989.4,
+      "end": 991.4,
+      "text": " Now I will write"
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 991.4,
+      "end": 993.4,
+      "text": " in src"
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 993.4,
+      "end": 995.4,
+      "text": " script.cs."
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 995.4,
+      "end": 997.4,
+      "text": " How did I write this?"
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 997.4,
+      "end": 999.4,
+      "text": " First I wrote script."
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 999.4,
+      "end": 1001.4,
+      "text": " Script."
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 1001.4,
+      "end": 1003.4,
+      "text": " Amit abbreviation."
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 1003.4,
+      "end": 1005.4,
+      "text": " Amit is a plugin that is built in the code."
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 1005.4,
+      "end": 1007.4,
+      "text": " You will be automatically"
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 1007.4,
+      "end": 1009.4,
+      "text": " complete as you select."
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 1009.4,
+      "end": 1011.4,
+      "text": " I am writing script and I am"
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 1011.4,
+      "end": 1013.4,
+      "text": " selecting the code from the src."
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 1013.4,
+      "end": 1015.4,
+      "text": " I want to give a source file."
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 1015.4,
+      "end": 1017.4,
+      "text": " You can type it manually."
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 1017.4,
+      "end": 1019.4,
+      "text": " But the suggestions you are getting here"
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 1019.4,
+      "end": 1021.4,
+      "text": " are the power to write your code."
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 1021.4,
+      "end": 1023.4,
+      "text": " They make you a great developer."
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 1023.4,
+      "end": 1025.4,
+      "text": " They make you a great developer."
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 1025.4,
+      "end": 1027.4,
+      "text": " And they increase your power."
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 1027.4,
+      "end": 1029.4,
+      "text": " So that you can not get stuck."
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 1029.4,
+      "end": 1031.4,
+      "text": " And soon your"
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 1031.4,
+      "end": 1033.4,
+      "text": " developer can be automatically complete."
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 1033.4,
+      "end": 1035.4,
+      "text": " src is equal to"
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 1035.4,
+      "end": 1037.4,
+      "text": " script.cs."
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 1037.4,
+      "end": 1039.4,
+      "text": " Now I will come here."
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 1039.4,
+      "end": 1041.4,
+      "text": " Welcome to Sigma Web Development course."
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 1041.4,
+      "end": 1043.4,
+      "text": " Everyone write your comment."
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 1043.4,
+      "end": 1045.4,
+      "text": " I am automatically complete."
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 1045.4,
+      "end": 1047.4,
+      "text": " I know that you are automatically complete."
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 1047.4,
+      "end": 1049.4,
+      "text": " After seeing this box, the JavaScript is also complete."
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 1049.4,
+      "end": 1051.4,
+      "text": " CSS was also complete."
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 1051.4,
+      "end": 1053.4,
+      "text": " Now you are automatically complete. I will reload it."
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 1053.4,
+      "end": 1055.4,
+      "text": " I will close it."
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 1055.4,
+      "end": 1057.4,
+      "text": " I will visit it."
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 1057.4,
+      "end": 1059.4,
+      "text": " You will see an alert here."
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 1059.4,
+      "end": 1061.4,
+      "text": " I will tell you what is JavaScript."
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 1061.4,
+      "end": 1063.4,
+      "text": " Don't say that you didn't tell me."
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 1063.4,
+      "end": 1065.4,
+      "text": " I don't want to start weirdly."
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 1065.4,
+      "end": 1067.4,
+      "text": " I will finish the HTML."
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 1067.4,
+      "end": 1069.4,
+      "text": " Don't worry."
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 1069.4,
+      "end": 1071.4,
+      "text": " And keep in mind"
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 1071.4,
+      "end": 1073.4,
+      "text": " the best practices that I am telling you."
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 1073.4,
+      "end": 1075.4,
+      "text": " Because what I am telling you"
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 1075.4,
+      "end": 1077.4,
+      "text": " is coming from my experience."
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 1077.4,
+      "end": 1079.4,
+      "text": " It is coming from my time experience."
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 1079.4,
+      "end": 1081.4,
+      "text": " And it will definitely help you."
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 1081.4,
+      "end": 1083.4,
+      "text": " Like I said, you can use the live server."
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 1083.4,
+      "end": 1085.4,
+      "text": " Like I said, you can use the live server."
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 1085.4,
+      "end": 1087.4,
+      "text": " From Microsoft."
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 1087.4,
+      "end": 1089.4,
+      "text": " Now I want you to write Sigma batch OP in the comment."
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 1089.4,
+      "end": 1091.4,
+      "text": " Everyone is enjoying the course."
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 1091.4,
+      "end": 1093.4,
+      "text": " So put Sigma batch OP in the comment."
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 1093.4,
+      "end": 1095.4,
+      "text": " It will be fun to see."
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 1095.4,
+      "end": 1097.4,
+      "text": " It is free course."
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 1097.4,
+      "end": 1099.4,
+      "text": " So write Sigma course OP in the hashtag."
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 1099.4,
+      "end": 1101.4,
+      "text": " It will be fun."
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 1101.4,
+      "end": 1103.4,
+      "text": " Many people have commented in the last video."
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 1103.4,
+      "end": 1105.4,
+      "text": " How to do this mouse wheel."
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 1105.4,
+      "end": 1107.4,
+      "text": " You have to go to the settings."
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 1107.4,
+      "end": 1109.4,
+      "text": " You have to write mouse wheel."
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 1109.4,
+      "end": 1111.4,
+      "text": " And here you have to check editor mouse wheel zoom."
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 1111.4,
+      "end": 1113.4,
+      "text": " And here you have to click mouse wheel."
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 1113.4,
+      "end": 1115.4,
+      "text": " I have pressed control."
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 1115.4,
+      "end": 1117.4,
+      "text": " I will zoom in like this."
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 1117.4,
+      "end": 1119.4,
+      "text": " And if I right click command palette."
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 1119.4,
+      "end": 1121.4,
+      "text": " I can toggle screencast mode."
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 1121.4,
+      "end": 1123.4,
+      "text": " And you will get to see what I am writing here."
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 1123.4,
+      "end": 1125.4,
+      "text": " I have not toggled screencast mode in this video."
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 1125.4,
+      "end": 1127.4,
+      "text": " Because you already know what I am typing."
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 1127.4,
+      "end": 1129.4,
+      "text": " So I can toggle screencast mode."
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 1129.4,
+      "end": 1131.4,
+      "text": " I can turn on."
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 1131.4,
+      "end": 1133.4,
+      "text": " So that you can see all the things I am doing."
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 1133.4,
+      "end": 1135.4,
+      "text": " In the last video, we talked about"
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 1135.4,
+      "end": 1137.4,
+      "text": " how websites work."
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 1137.4,
+      "end": 1139.4,
+      "text": " And what we have talked about."
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 1139.4,
+      "end": 1141.4,
+      "text": " And what we have talked about."
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 1141.4,
+      "end": 1143.4,
+      "text": " You understood very well."
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 1143.4,
+      "end": 1145.4,
+      "text": " Now I will take the example of iPhone 15 Pro Max."
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 1145.4,
+      "end": 1147.4,
+      "text": " And I will show you by ordering."
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 1147.4,
+      "end": 1149.4,
+      "text": " How will the client-server interaction be."
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 1149.4,
+      "end": 1151.4,
+      "text": " Whenever a user orders an iPhone."
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 1151.4,
+      "end": 1153.4,
+      "text": " So you will find it interesting."
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 1153.4,
+      "end": 1155.4,
+      "text": " I will show you here."
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 1155.4,
+      "end": 1157.4,
+      "text": " So guys here the website works."
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 1157.4,
+      "end": 1159.4,
+      "text": " To explain how it works."
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 1159.4,
+      "end": 1161.4,
+      "text": " I have come to apple.com."
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 1161.4,
+      "end": 1163.4,
+      "text": " Now that apple.com is a website."
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 1163.4,
+      "end": 1165.4,
+      "text": " Data from their servers will be here."
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 1165.4,
+      "end": 1167.4,
+      "text": " All the HTML files."
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 1167.4,
+      "end": 1169.4,
+      "text": " I will click on pre-order."
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 1169.4,
+      "end": 1171.4,
+      "text": " And after that I will simply"
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 1171.4,
+      "end": 1173.4,
+      "text": " When I am recording."
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 1173.4,
+      "end": 1175.4,
+      "text": " It is not even there."
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 1175.4,
+      "end": 1177.4,
+      "text": " It will be there by September."
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 1177.4,
+      "end": 1179.4,
+      "text": " I will select 15 Pro Max."
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 1179.4,
+      "end": 1181.4,
+      "text": " Let's take any color."
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 1181.4,
+      "end": 1183.4,
+      "text": " Let's take black Titanium."
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 1183.4,
+      "end": 1185.4,
+      "text": " Let's take 250GB."
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 1185.4,
+      "end": 1187.4,
+      "text": " Let's take no trading. No Apple coverage."
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 1187.4,
+      "end": 1189.4,
+      "text": " After that you see here."
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 1189.4,
+      "end": 1191.4,
+      "text": " What they did. Their server communication is going on."
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 1191.4,
+      "end": 1193.4,
+      "text": " So after all this."
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 1193.4,
+      "end": 1195.4,
+      "text": " The HTML CSS JavaScript."
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 1195.4,
+      "end": 1197.4,
+      "text": " You can see here. I have sourced the view page."
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 1197.4,
+      "end": 1199.4,
+      "text": " So this is how I can see here."
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 1199.4,
+      "end": 1201.4,
+      "text": " And this is our original website."
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 1201.4,
+      "end": 1203.4,
+      "text": " Which we were working on."
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 1203.4,
+      "end": 1205.4,
+      "text": " Now I will quickly check out."
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 1205.4,
+      "end": 1207.4,
+      "text": " I will continue as a guest."
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 1207.4,
+      "end": 1209.4,
+      "text": " I will show you something interesting."
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 1209.4,
+      "end": 1211.4,
+      "text": " Like I will do it on the internet."
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 1211.4,
+      "end": 1213.4,
+      "text": " Look at the 2 and 4 communication."
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 1213.4,
+      "end": 1215.4,
+      "text": " With Apple servers."
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 1215.4,
+      "end": 1217.4,
+      "text": " Which means here."
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 1217.4,
+      "end": 1219.4,
+      "text": " As I am doing the action here."
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 1219.4,
+      "end": 1221.4,
+      "text": " The JavaScript is communicating the server."
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 1221.4,
+      "end": 1223.4,
+      "text": " And there it is taking the appropriate action server."
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 1223.4,
+      "end": 1225.4,
+      "text": " And sending me the data."
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 1225.4,
+      "end": 1227.4,
+      "text": " I will put the name and the shipping address."
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 1227.4,
+      "end": 1229.4,
+      "text": " I will put the name and the shipping address."
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 1229.4,
+      "end": 1231.4,
+      "text": " It will deliver on 19th October."
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 1231.4,
+      "end": 1233.4,
+      "text": " I will tell you the update."
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 1233.4,
+      "end": 1235.4,
+      "text": " I will keep you."
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 1235.4,
+      "end": 1237.4,
+      "text": " Yes everything is fine."
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 1237.4,
+      "end": 1239.4,
+      "text": " I have read it. I agree."
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 1239.4,
+      "end": 1241.4,
+      "text": " Place your order."
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 1241.4,
+      "end": 1243.4,
+      "text": " Like the video."
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 1243.4,
+      "end": 1245.4,
+      "text": " Because I will order iPhones to explain you the web development."
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 1245.4,
+      "end": 1247.4,
+      "text": " We have here OTP."
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 1247.4,
+      "end": 1249.4,
+      "text": " I will confirm it."
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 1249.4,
+      "end": 1251.4,
+      "text": " And my purchase is here."
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 1251.4,
+      "end": 1253.4,
+      "text": " The thing that happened is."
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 1253.4,
+      "end": 1255.4,
+      "text": " I requested Apple.com"
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 1255.4,
+      "end": 1257.4,
+      "text": " server."
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 1257.4,
+      "end": 1259.4,
+      "text": " I said give me an iPhone 15 Pro Max."
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 1259.4,
+      "end": 1261.4,
+      "text": " Apple.com said take it."
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 1261.4,
+      "end": 1263.4,
+      "text": " So the communication"
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 1263.4,
+      "end": 1265.4,
+      "text": " between server and client."
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 1265.4,
+      "end": 1267.4,
+      "text": " This is done through JavaScript."
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 1267.4,
+      "end": 1269.4,
+      "text": " Load the page without loading."
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 1269.4,
+      "end": 1271.4,
+      "text": " Like you saw I selected iPhone here."
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 1271.4,
+      "end": 1273.4,
+      "text": " I clicked different things."
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 1273.4,
+      "end": 1275.4,
+      "text": " So all the things are."
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 1275.4,
+      "end": 1277.4,
+      "text": " That is the side of JavaScript."
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 1277.4,
+      "end": 1279.4,
+      "text": " The styling is that of CSS."
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 1279.4,
+      "end": 1281.4,
+      "text": " And all the things written are HTML."
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 1281.4,
+      "end": 1283.4,
+      "text": " I hope you remember this example."
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 1283.4,
+      "end": 1285.4,
+      "text": " And if you get a call."
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 1285.4,
+      "end": 1287.4,
+      "text": " I will show you."
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 1287.4,
+      "end": 1289.4,
+      "text": " I will show you this phone."
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 1289.4,
+      "end": 1291.4,
+      "text": " I will show you."
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 1291.4,
+      "end": 1293.4,
+      "text": " So this is how your websites work."
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 1293.4,
+      "end": 1295.4,
+      "text": " How to communicate with a client server."
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 1295.4,
+      "end": 1297.4,
+      "text": " I hope you understood this example."
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 1297.4,
+      "end": 1299.4,
+      "text": " Tell me in the comment section."
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 1299.4,
+      "end": 1301.4,
+      "text": " If I want to give away this iPhone."
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 1301.4,
+      "end": 1303.4,
+      "text": " So what will be the best thing."
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 1303.4,
+      "end": 1305.4,
+      "text": " That you will also know that I have given a genuine."
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 1305.4,
+      "end": 1307.4,
+      "text": " And I will give away."
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 1307.4,
+      "end": 1309.4,
+      "text": " I will not do it."
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 1309.4,
+      "end": 1311.4,
+      "text": " You tell me in the comment section."
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 1311.4,
+      "end": 1313.4,
+      "text": " I don't know about all this."
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 1313.4,
+      "end": 1315.4,
+      "text": " So you know about this."
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 1315.4,
+      "end": 1317.4,
+      "text": " Now I want to tell you."
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 1317.4,
+      "end": 1319.4,
+      "text": " Where you will get notes and cheatsheets."
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 1319.4,
+      "end": 1321.4,
+      "text": " If you go to codevdary.com."
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 1321.4,
+      "end": 1323.4,
+      "text": " You will get notes."
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 1323.4,
+      "end": 1325.4,
+      "text": " And you can download notes here."
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 1325.4,
+      "end": 1327.4,
+      "text": " With that you will get to see cheatsheets."
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 1327.4,
+      "end": 1329.4,
+      "text": " For example, if I want to access the HTML cheatsheet."
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 1329.4,
+      "end": 1331.4,
+      "text": " I can access the cheatsheet here."
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 1331.4,
+      "end": 1333.4,
+      "text": " All the elements are here."
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 1333.4,
+      "end": 1335.4,
+      "text": " But in this course."
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 1335.4,
+      "end": 1337.4,
+      "text": " I will tell you about the elements."
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 1337.4,
+      "end": 1339.4,
+      "text": " With that."
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 1339.4,
+      "end": 1341.4,
+      "text": " If you want to download my handwritten notes."
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 1341.4,
+      "end": 1343.4,
+      "text": " You can download PDF notes from here."
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 1343.4,
+      "end": 1345.4,
+      "text": " I have written handwritten."
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 1345.4,
+      "end": 1347.4,
+      "text": " You will enjoy reading."
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 1347.4,
+      "end": 1349.4,
+      "text": " In this course. I will tell you everything."
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 1349.4,
+      "end": 1351.4,
+      "text": " But you will enjoy more by downloading the notes."
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 1351.4,
+      "end": 1353.4,
+      "text": " I will make your learning experience."
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 1353.4,
+      "end": 1355.4,
+      "text": " That you will also say that it was fun."
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 1355.4,
+      "end": 1357.4,
+      "text": " Now I want you to do all the work."
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 1357.4,
+      "end": 1359.4,
+      "text": " Put the initial review of this course."
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 1359.4,
+      "end": 1361.4,
+      "text": " In this first video."
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 1361.4,
+      "end": 1363.4,
+      "text": " I want you to go to this video."
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 1363.4,
+      "end": 1365.4,
+      "text": " And post the initial review in the comment section."
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 1365.4,
+      "end": 1367.4,
+      "text": " I want you to write in the comment section."
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 1367.4,
+      "end": 1369.4,
+      "text": " In this first video."
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 1369.4,
+      "end": 1371.4,
+      "text": " How did you like the course."
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 1371.4,
+      "end": 1373.4,
+      "text": " And I got 5 stars."
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 1373.4,
+      "end": 1375.4,
+      "text": " I got to know about the initial review."
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 1375.4,
+      "end": 1377.4,
+      "text": " I know that the course is not finished yet."
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 1377.4,
+      "end": 1379.4,
+      "text": " But what quality and all that."
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 1379.4,
+      "end": 1381.4,
+      "text": " I am commenting on it in the first video."
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 1381.4,
+      "end": 1383.4,
+      "text": " If you do this."
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 1383.4,
+      "end": 1385.4,
+      "text": " I will be happy."
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 1385.4,
+      "end": 1387.4,
+      "text": " Go to the first video."
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 1387.4,
+      "end": 1389.4,
+      "text": " Read this course."
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 1389.4,
+      "end": 1391.4,
+      "text": " Now we will talk about how you can earn money."
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 1391.4,
+      "end": 1393.4,
+      "text": " After that. How you can earn money."
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 1393.4,
+      "end": 1395.4,
+      "text": " The first way to earn money from web development."
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 1395.4,
+      "end": 1397.4,
+      "text": " It is very simple."
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 1397.4,
+      "end": 1399.4,
+      "text": " You can do freelance as a web developer."
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 1399.4,
+      "end": 1401.4,
+      "text": " You can make websites."
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 1401.4,
+      "end": 1403.4,
+      "text": " You can make many websites."
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 1403.4,
+      "end": 1405.4,
+      "text": " And you will get good money by making them."
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 1405.4,
+      "end": 1407.4,
+      "text": " Many people integrate APIs."
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 1407.4,
+      "end": 1409.4,
+      "text": " And by integrating APIs."
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 1409.4,
+      "end": 1411.4,
+      "text": " Many people earn good money."
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 1411.4,
+      "end": 1413.4,
+      "text": " Many people say that chat GBT is here."
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 1413.4,
+      "end": 1415.4,
+      "text": " So chat GBT is here."
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 1415.4,
+      "end": 1417.4,
+      "text": " So nothing can happen."
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 1417.4,
+      "end": 1419.4,
+      "text": " But this is not true."
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 1419.4,
+      "end": 1421.4,
+      "text": " It is more easy."
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 1421.4,
+      "end": 1423.4,
+      "text": " When you use chat GBT."
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 1423.4,
+      "end": 1425.4,
+      "text": " You become a giga chat developer."
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 1429.4,
+      "end": 1431.4,
+      "text": " So use more than chat GBT."
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 1431.4,
+      "end": 1433.4,
+      "text": " And you can save your time."
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 1433.4,
+      "end": 1435.4,
+      "text": " In fact, I tell you the truth."
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 1435.4,
+      "end": 1437.4,
+      "text": " Ever since the chat GBT came."
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 1437.4,
+      "end": 1439.4,
+      "text": " I am able to deliver my freelancing clients."
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 1439.4,
+      "end": 1441.4,
+      "text": " I had to make as many websites as possible."
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 1441.4,
+      "end": 1443.4,
+      "text": " I do more than half of the work."
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 1443.4,
+      "end": 1445.4,
+      "text": " And the work that can't do chat GBT."
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 1445.4,
+      "end": 1447.4,
+      "text": " I do it. Finally I package it."
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 1447.4,
+      "end": 1449.4,
+      "text": " And I don't have to answer anyone."
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 1449.4,
+      "end": 1451.4,
+      "text": " What I used chat GBT."
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 1451.4,
+      "end": 1453.4,
+      "text": " What I did without chat GBT."
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 1453.4,
+      "end": 1455.4,
+      "text": " You can deliver everything easily."
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 1455.4,
+      "end": 1457.4,
+      "text": " Use chat GBT."
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 1457.4,
+      "end": 1459.4,
+      "text": " You can't do everything."
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 1459.4,
+      "end": 1461.4,
+      "text": " You have to use chat GBT."
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 1461.4,
+      "end": 1463.4,
+      "text": " And after that you have to make websites."
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 1463.4,
+      "end": 1465.4,
+      "text": " You have to deliver freelance clients."
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 1465.4,
+      "end": 1467.4,
+      "text": " From where you can meet freelancing clients."
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 1467.4,
+      "end": 1469.4,
+      "text": " You can go to a website like Fiverr."
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 1469.4,
+      "end": 1471.4,
+      "text": " I know it is difficult to get work on Fiverr."
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 1471.4,
+      "end": 1473.4,
+      "text": " But you can go to the buyer request."
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 1473.4,
+      "end": 1475.4,
+      "text": " There is a buyer request option in Fiverr."
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 1475.4,
+      "end": 1477.4,
+      "text": " You can match it with buyer."
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 1477.4,
+      "end": 1479.4,
+      "text": " If I show you images."
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 1479.4,
+      "end": 1481.4,
+      "text": " You can give your pitch to the buyer request."
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 1481.4,
+      "end": 1483.4,
+      "text": " I have done this."
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 1483.4,
+      "end": 1485.4,
+      "text": " And to do this."
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 1485.4,
+      "end": 1487.4,
+      "text": " You will get work."
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 1487.4,
+      "end": 1489.4,
+      "text": " You will get good reviews on your gig."
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 1489.4,
+      "end": 1491.4,
+      "text": " You will earn more money."
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 1491.4,
+      "end": 1493.4,
+      "text": " For example, Fiverr's gig."
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 1493.4,
+      "end": 1495.4,
+      "text": " No one has ordered it."
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 1495.4,
+      "end": 1497.4,
+      "text": " You will never get easy work."
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 1497.4,
+      "end": 1499.4,
+      "text": " But if you have ordered on one gig."
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 1499.4,
+      "end": 1501.4,
+      "text": " 5-6 people have ordered."
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 1501.4,
+      "end": 1503.4,
+      "text": " And everyone has given you 5 stars."
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 1503.4,
+      "end": 1505.4,
+      "text": " Then things get easier for you."
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 1505.4,
+      "end": 1507.4,
+      "text": " Because buyers want"
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 1507.4,
+      "end": 1509.4,
+      "text": " to get the work done."
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 1509.4,
+      "end": 1511.4,
+      "text": " So that they get the work done."
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 1511.4,
+      "end": 1513.4,
+      "text": " And they are also giving money."
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 1513.4,
+      "end": 1515.4,
+      "text": " They want to give money."
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 1515.4,
+      "end": 1517.4,
+      "text": " So they don't have to waste money."
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 1517.4,
+      "end": 1519.4,
+      "text": " So here Fiverr Upwork."
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 1519.4,
+      "end": 1521.4,
+      "text": " And there are many freelancing websites."
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 1521.4,
+      "end": 1523.4,
+      "text": " But before trying."
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 1523.4,
+      "end": 1525.4,
+      "text": " You have to make good websites."
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 1525.4,
+      "end": 1527.4,
+      "text": " And today's day is responsive."
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 1527.4,
+      "end": 1529.4,
+      "text": " You have to integrate chat GBT API."
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 1529.4,
+      "end": 1531.4,
+      "text": " You will get such work."
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 1531.4,
+      "end": 1533.4,
+      "text": " You will not say that you should make a design."
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 1533.4,
+      "end": 1535.4,
+      "text": " Make it simple."
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 1535.4,
+      "end": 1537.4,
+      "text": " I am saying that most of the clients"
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 1537.4,
+      "end": 1539.4,
+      "text": " don't do this."
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 1539.4,
+      "end": 1541.4,
+      "text": " You can make complex websites."
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 1541.4,
+      "end": 1543.4,
+      "text": " And earn more money."
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 1543.4,
+      "end": 1545.4,
+      "text": " Then another thing."
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 1545.4,
+      "end": 1547.4,
+      "text": " Get a job as a web developer."
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 1547.4,
+      "end": 1549.4,
+      "text": " If you get a job as a web developer."
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 1549.4,
+      "end": 1551.4,
+      "text": " You will get a job."
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 1551.4,
+      "end": 1553.4,
+      "text": " And not like this."
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 1553.4,
+      "end": 1555.4,
+      "text": " Senior developers demand is increasing."
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 1555.4,
+      "end": 1557.4,
+      "text": " And their package is also increasing."
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 1557.4,
+      "end": 1559.4,
+      "text": " People are earning more money in coding."
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 1559.4,
+      "end": 1561.4,
+      "text": " If you are a basic developer."
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 1561.4,
+      "end": 1563.4,
+      "text": " You will get some job."
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 1563.4,
+      "end": 1565.4,
+      "text": " After this you can sell your services."
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 1565.4,
+      "end": 1567.4,
+      "text": " By making an Instagram account."
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 1567.4,
+      "end": 1569.4,
+      "text": " You can upload any type of images."
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 1569.4,
+      "end": 1571.4,
+      "text": " And you can take a little traction."
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 1571.4,
+      "end": 1573.4,
+      "text": " Where you talk."
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 1573.4,
+      "end": 1575.4,
+      "text": " About websites."
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 1575.4,
+      "end": 1577.4,
+      "text": " You can approach your clients."
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 1577.4,
+      "end": 1579.4,
+      "text": " I approach many clients."
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 1579.4,
+      "end": 1581.4,
+      "text": " Who say that they want to make a website."
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 1581.4,
+      "end": 1583.4,
+      "text": " I am not saying that you should have a lot of followers."
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 1583.4,
+      "end": 1585.4,
+      "text": " You can start with a very less following."
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 1585.4,
+      "end": 1587.4,
+      "text": " After this you can give help to people."
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 1587.4,
+      "end": 1589.4,
+      "text": " You can give help to people."
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 1589.4,
+      "end": 1591.4,
+      "text": " You can get this from your clients Instagram."
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 1591.4,
+      "end": 1593.4,
+      "text": " Or social media."
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 1593.4,
+      "end": 1595.4,
+      "text": " You can say in the end of your reel."
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 1595.4,
+      "end": 1597.4,
+      "text": " If you want to learn anything."
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 1597.4,
+      "end": 1599.4,
+      "text": " You can come to my DM."
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 1599.4,
+      "end": 1601.4,
+      "text": " I will tell you."
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 1601.4,
+      "end": 1603.4,
+      "text": " And you can easily get a client."
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 1603.4,
+      "end": 1605.4,
+      "text": " Trust me if you have any help."
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 1605.4,
+      "end": 1607.4,
+      "text": " After this you can sell your course."
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 1607.4,
+      "end": 1609.4,
+      "text": " I think I was going to sell this course."
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 1609.4,
+      "end": 1611.4,
+      "text": " I have uploaded it for free."
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 1611.4,
+      "end": 1613.4,
+      "text": " But this course was going to get paid."
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 1613.4,
+      "end": 1615.4,
+      "text": " The truth is this."
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 1615.4,
+      "end": 1617.4,
+      "text": " I had given money for this course."
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 1617.4,
+      "end": 1619.4,
+      "text": " Now it is not necessary that you have to make a web development course."
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 1619.4,
+      "end": 1621.4,
+      "text": " There are many things in web development."
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 1621.4,
+      "end": 1623.4,
+      "text": " Like how to use 4GBT API."
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 1623.4,
+      "end": 1625.4,
+      "text": " Make a course for that."
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 1625.4,
+      "end": 1627.4,
+      "text": " If you want to make a website."
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 1627.4,
+      "end": 1629.4,
+      "text": " It will be easy to sell the course."
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 1629.4,
+      "end": 1631.4,
+      "text": " The economy is huge."
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 1631.4,
+      "end": 1633.4,
+      "text": " I have contacted many people."
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 1633.4,
+      "end": 1635.4,
+      "text": " To buy this course."
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 1635.4,
+      "end": 1637.4,
+      "text": " I have launched this course as a paid course."
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 1637.4,
+      "end": 1639.4,
+      "text": " But I did not."
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 1639.4,
+      "end": 1641.4,
+      "text": " I wanted to give this course as free."
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 1641.4,
+      "end": 1643.4,
+      "text": " I had decided."
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 1643.4,
+      "end": 1645.4,
+      "text": " People have contacted me for the last moment."
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 1645.4,
+      "end": 1647.4,
+      "text": " Please do not put the course for free."
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 1647.4,
+      "end": 1649.4,
+      "text": " I have put it."
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 1649.4,
+      "end": 1651.4,
+      "text": " You will have to write the sigma batch."
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 1651.4,
+      "end": 1653.4,
+      "text": " You will have to like."
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 1653.4,
+      "end": 1655.4,
+      "text": " After getting the course."
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 1655.4,
+      "end": 1657.4,
+      "text": " Many course sellers are damaged."
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 1657.4,
+      "end": 1659.4,
+      "text": " Because when iPhone 15, 16, 19 Pro Max is available."
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 1659.4,
+      "end": 1661.4,
+      "text": " Who will ask Blackberry?"
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 1661.4,
+      "end": 1663.4,
+      "text": " That too for paid Blackberry."
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 1663.4,
+      "end": 1665.4,
+      "text": " I am saying this because I have put in a lot of effort."
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 1665.4,
+      "end": 1667.4,
+      "text": " And put in a lot of experience."
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 1667.4,
+      "end": 1669.4,
+      "text": " I know that in the coming videos."
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 1669.4,
+      "end": 1671.4,
+      "text": " You will also know."
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 1671.4,
+      "end": 1673.4,
+      "text": " Many things are going to be available in this course."
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 1673.4,
+      "end": 1675.4,
+      "text": " In the coming videos."
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 1675.4,
+      "end": 1677.4,
+      "text": " I am aware of the fact that we are taking a very slow start."
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 1677.4,
+      "end": 1679.4,
+      "text": " But remember what I said."
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 1679.4,
+      "end": 1681.4,
+      "text": " We will raise the bar like anything."
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 1681.4,
+      "end": 1683.4,
+      "text": " So access the playlist."
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 1683.4,
+      "end": 1685.4,
+      "text": " Like the video."
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 1685.4,
+      "end": 1687.4,
+      "text": " And name the land of your village."
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 1687.4,
+      "end": 1689.4,
+      "text": " Thank you so much for watching this video."
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 1689.4,
+      "end": 1691.4,
+      "text": " And I will see you next time."
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 1701.4,
+      "end": 1703.4,
+      "text": " Subscribe to our channel."
+    }
+  ],
+  "text": " In the last video, you guys gave me a lot of love. It's my pleasure to keep this course free. A like is a must for this free course. You know, when I started web development, this quality was not comprehensive course. Forget free or paid, it was not such course. So I can understand that being free of this course is so important for some people. And trust me, I live up to the expectations. With that said, like this video because we are going to make our first website in this video. In this video, I am going to order iPhone 15 Pro Max. And you will see how it is in the next video. For many of you, this will be your first website in your life. So it's going to be very fun. You guys are excited, right? Write in the comments. I am excited. And I will hurt all the comments that I am excited about. I will give my heart. In this video, we will learn to link an HTML website with CSS and JavaScript. Along with that, in this video, I am going to give you guys notes, cheat sheet and many other resources. I will tell you guys some of the such techniques which I have learned in years. And we will literally do 10x speed of your web development. We will also see in this video how to make our VS Code awesome. That your VS Code screen will look killer. In this video, I will also tell you how to earn money from web development. So let's start with full energy. Let's roll the intro. Music Alright guys, so we have come to our computer screen. Before we move on to the video, I would like to tell you that you should access this playlist. Secondly, we are very close to 5 million subscribers. So if you haven't subscribed yet, do it. In today's video, we are going to make our first website as I already told you. So the first thing we will do is to customize our VS Code. So this is the folder in which we started our web development series. Now I want to give you guys the source code of this web development series. So I will configure the Git. For you guys, it is not necessary to know about Git at all. But I will fire the GitHub desktop. And here I will add a new repository. I will click on add. I will click on create new repository. I will name it. I will name it Sigma Web Dev Course. And this is our folder. So I will select this folder. Initialize this repository with GridMe. And here I will write source code for Sigma Web Development Course. I will click on create repository. This will make our repository which is called Sigma Web Dev Course. The first relevant things from the first video I will put them here. These were the files. The first relevant from the first video. So I will name it Video1. Right Click New Folder. I will name it Video1. And I will move these files in Video1 folder. I am not pushing this video on all the Git. You can use your sample videos. So now I will update the source code here. And I will push it on the Git. How to push it on the Git. You guys don't need to learn this. But this procedure is very simple. I will tell you why I use Git. I will tell you why I use Git. We use the general coders. When they have to collaborate with other people. So what will happen is that you will work with many programmers. And those programmers will collaborate with your source code. And to do this kind of collaboration they will also push some code. You will also push some code. Maybe a person is editing a file. If a person is editing another file. So here the GitHub is used. And what is GitHub Desktop? GitHub Desktop is a utility to use Git. In Git and GitHub, the difference is that GitHub is a Microsoft owned company. Which is used to use Git. Repositories help you to host on your web interface. In the upcoming videos about Git I will tell you more. But I am pushing this repository on the code with the GitHub account. The link in the description will be given to the repository. So as soon as I give you the links. You will get the code if you follow it. And I will talk about it. I am making this video course so I will click on the Publisher repository. The code will sink from the GitHub account. So the code that I am going to upload will go to the GitHub account and it will sink. The changes that will be there. If someone has changed it. I can pull it here. I will teach you all this. I will dedicate a video to Git. Don't worry. I did this so that I can give you the code. I will make a video 2 folder. I will go inside. I will click on Shift and open with VS Code. So here it is open with code. You will get this option. As I have told you. If you have changed it. And you have not checked it. You can have a problem. We will dismiss it. I will make the file here. I will make the index. That file will be made here. So you all know about it. I know a lot of intermediate people here. We already know all this. But I am making this code. So that all beginners can follow along. So I will make it here from 3 files. I made the index.html here. The second file I am going to make is style.css. And the third file I am going to make is script.js. And the name of these files can be anything. But I just want to keep these files self-explanatory. So that they can see the name and know what they are doing. Index.html file. Script.js. Java script file. Style.css. So I made these 3 files here. I will go to index.html and put the exclamation mark. And as soon as I put the exclamation mark. You see this code is here. I will click on view word wrap. So that you can see the code. The horizontal scroll bar is removed from the word wrap. I checked the word wrap. So here you all see. That we will understand this code. But for now you can understand that this code. This code. This code. We will use it to make a website. Now let's go to the extension tab of VS Code. Extensions. They are used to enhance the functionality of VS Code. We use extensions. We use them to make VS Code better. We use extensions. We use extensions. We write code to help us. We use extensions. So which extension we will use. I will put it first. Some extensions. So that our VS Code will become killer. If your friends have seen it. So what I will do now. VS Code Icons. Okay. There is an extension called VS Code Icons. Which I will install. You will know. Whatever files you are seeing. The icon is here. You will see the icon here. Thanks for installing VS Code Icons. I will activate it. And you can see. That our icons are looking good. If we make a folder in the coming time. If we make a folder. Then the icon will look good. We will come back to the extension tab. And there are many good themes here. Which you can use. Some are jellyfish themes. One is GitHub themes. You can use these themes. But I can only use one theme at a time. This is the theme of default VS Code. Which shows you VS Code. If I change my theme. My VS Code will look different. I will show you. I will show you which one I will prefer. When it comes to themes. I will show you the GitHub theme. How it looks. The official GitHub theme. The theme is given. Here is GitHub Dark. GitHub Light. GitHub Dipped. I think this one looks better. Because the colors in this. Sorry. I will choose GitHub Dark. Because the colors here are different. The colors in this are different. The theme you will like. Is Jellyfish. Jellyfish theme looks good. If I install this. You can see the VS Code. Jellyfish. The material theme is also popular. If I use the material theme. Material theme. Material theme icons. We have to install this. If you have installed the material theme icons. You can change the icons. And here we have installed many extensions. You can also tell how to delete the extensions. Here I am showing the material theme icons. And if you want. You can use the VS Code icons. If I want. Material themes icons. They will move away from me. So I will remove this. And here. You can see the extensions. Material theme icons. I will select this one. And if I want. I can uninstall it. If I want. I will have to click on Reload Required. And when I click on Reload Required. My VS Code will be reloaded. You can customize your VS Code. I will select the VS Code icons. So that I can see the icons. I like this. Jellyfish theme is also popular. And here we have another extension. Its name is Prettier. I will not install it. But I just want to tell you. Another extension is ES7. We will react in this course. Sorry for the spoilers. But we will react in this course. ES7 plus react Redux. React Native Snippets. This extension gives you the react snippets. We will use it only when we will react. We will not install it for now. But the most important extension. Its name is Live Preview. We will install this extension. Because it is a very useful extension. The extensions I have told you. Mostly they help you. To change the look and feel of this code. But today I am telling you. Live Preview. You will actually use it. Let's come to our HTML, CSS and JavaScript files. So these are our HTML, CSS and JavaScript files. This is HTML file. This is some code. Which tells you how to see the website. Okay. I am saying that there should be a document in the title. I will write here. The first website of Harry. The first website of Harry. The first website of the course. Harry's first website will be a lie. Your first website. Write your name in it. And if I write in the body. This is my first website. And everyone write in the comments. Congratulations. Write all the first websites. Congratulations for my first website. And congratulate each other. Make a mood in the comment section. I will also come in the comment section. And I will give you all the heart. Now. Let's see how to do this. The biggest question of people. There are two ways to see. The one that we have installed live server. Live preview. The live server used to work. But Microsoft released live preview. So I will recommend the latest extension. This is also live server. But I am not going to run live server. I am going to use live preview. After installing live preview. You can see this icon. I will show you this website. Because my website will be in the browser. So if you want to see this in the browser. Click here. Open in browser. And tell me something interesting. You can close it. You can write here. The course of Harry. You can write. I am praising my course. But yes. I wrote here. And you noticed one thing. I didn't reload the website. But after that. I have updated this content. Which I wrote in the code. Which means I will write here. Without reloading. Will update here. Will it happen or not? Play the music. It will happen. And here. This is my first website. Harry's course is good. Now I will write here. This is a good course of Harry. This is a good course of Harry. So here you have seen. How this extension helped us. If you reload it. It will not make any difference. Because it is being reloaded live. Sometimes we want. Our page. It will be here. So that you can see the white code. Sometimes we want. We can see our code here. Because we want to see. I am writing here. This is a good course of Harry. And this is a good course of SIGMA. I will write here. I will write here. And I can do it. So I will see the live update here. If you have seen my old videos. I have used this extension. Of the live server. I didn't know this extension. Whatever it is. If you know something new. You will know. I use AC in daily life. I do web development. Many people ask me. Do you also do web development? I do. I don't make videos. I do work. I make websites. All the code I am writing. You will get it on the github. You will go to any video description. Any video description. You will get the corresponding code. You don't have to worry. I will close this. Because my preview is here. Now understand HTML, CSS, JavaScript. We talked about it. In the previous video. I will tell you how to link these three. You have made index.html. You can see the title. The course of Harry. First website. I will do SIGMA web development course. This will change. SIGMA web development SIGMA web development course. You can see. This will be updated. Live update. Now I want the background to be red. This is how CSS works. I can write. Body. Background color red. This is the syntax of CSS. I will teach CSS. I will teach it. Don't worry. This is CSS. You can see. Body color will be red or not. I will tell beginners. Why not? This HTML file is working. This is CSS file. I don't know what is going on in my house. What do I know about my neighbor. I made lentils. I expect my neighbor to make rice. I expect him to eat it. I can eat it sometimes. But I am not sure. I have to link it. I will have to link it. I will have to go and tell my neighbor. I will make lentils. You will have to shake hands. How will you shake hands? You will tell CSS file in HTML. There is a link tag. The reason for not using notepad. You will know. I will write link here. I will select link colon CSS. It did half of my work. It wrote RL is equal to style. I have to type manually in notepad. I have to type in HTML. But automatically it came. This is my destiny. This is style.css file. If this is called Harry.css I would have written Harry.css. Guess what? My background is red. If I want to get white color text. I can write color text. Now nothing will work. I have written color white. This is white. We will talk about this later. This is our CSS file. How will JavaScript work? If I write alert and I write Welcome to Sigma Web Development course. What will happen? What will be the alert? Why did not alert? I will tell you that this syntax is absolutely correct. There is no problem in syntax. I will read JavaScript very well. This is the code of JavaScript. Welcome to Sigma Web Development course. Why did not flash? Is my computer broken? No, my computer is absolutely correct. I want to tell you that I have to include this script. Let's include this script from the body. Now I will write in src script.cs. How did I write this? First I wrote script. Script. Amit abbreviation. Amit is a plugin that is built in the code. You will be automatically complete as you select. I am writing script and I am selecting the code from the src. I want to give a source file. You can type it manually. But the suggestions you are getting here are the power to write your code. They make you a great developer. They make you a great developer. And they increase your power. So that you can not get stuck. And soon your developer can be automatically complete. src is equal to script.cs. Now I will come here. Welcome to Sigma Web Development course. Everyone write your comment. I am automatically complete. I know that you are automatically complete. After seeing this box, the JavaScript is also complete. CSS was also complete. Now you are automatically complete. I will reload it. I will close it. I will visit it. You will see an alert here. I will tell you what is JavaScript. Don't say that you didn't tell me. I don't want to start weirdly. I will finish the HTML. Don't worry. And keep in mind the best practices that I am telling you. Because what I am telling you is coming from my experience. It is coming from my time experience. And it will definitely help you. Like I said, you can use the live server. Like I said, you can use the live server. From Microsoft. Now I want you to write Sigma batch OP in the comment. Everyone is enjoying the course. So put Sigma batch OP in the comment. It will be fun to see. It is free course. So write Sigma course OP in the hashtag. It will be fun. Many people have commented in the last video. How to do this mouse wheel. You have to go to the settings. You have to write mouse wheel. And here you have to check editor mouse wheel zoom. And here you have to click mouse wheel. I have pressed control. I will zoom in like this. And if I right click command palette. I can toggle screencast mode. And you will get to see what I am writing here. I have not toggled screencast mode in this video. Because you already know what I am typing. So I can toggle screencast mode. I can turn on. So that you can see all the things I am doing. In the last video, we talked about how websites work. And what we have talked about. And what we have talked about. You understood very well. Now I will take the example of iPhone 15 Pro Max. And I will show you by ordering. How will the client-server interaction be. Whenever a user orders an iPhone. So you will find it interesting. I will show you here. So guys here the website works. To explain how it works. I have come to apple.com. Now that apple.com is a website. Data from their servers will be here. All the HTML files. I will click on pre-order. And after that I will simply When I am recording. It is not even there. It will be there by September. I will select 15 Pro Max. Let's take any color. Let's take black Titanium. Let's take 250GB. Let's take no trading. No Apple coverage. After that you see here. What they did. Their server communication is going on. So after all this. The HTML CSS JavaScript. You can see here. I have sourced the view page. So this is how I can see here. And this is our original website. Which we were working on. Now I will quickly check out. I will continue as a guest. I will show you something interesting. Like I will do it on the internet. Look at the 2 and 4 communication. With Apple servers. Which means here. As I am doing the action here. The JavaScript is communicating the server. And there it is taking the appropriate action server. And sending me the data. I will put the name and the shipping address. I will put the name and the shipping address. It will deliver on 19th October. I will tell you the update. I will keep you. Yes everything is fine. I have read it. I agree. Place your order. Like the video. Because I will order iPhones to explain you the web development. We have here OTP. I will confirm it. And my purchase is here. The thing that happened is. I requested Apple.com server. I said give me an iPhone 15 Pro Max. Apple.com said take it. So the communication between server and client. This is done through JavaScript. Load the page without loading. Like you saw I selected iPhone here. I clicked different things. So all the things are. That is the side of JavaScript. The styling is that of CSS. And all the things written are HTML. I hope you remember this example. And if you get a call. I will show you. I will show you this phone. I will show you. So this is how your websites work. How to communicate with a client server. I hope you understood this example. Tell me in the comment section. If I want to give away this iPhone. So what will be the best thing. That you will also know that I have given a genuine. And I will give away. I will not do it. You tell me in the comment section. I don't know about all this. So you know about this. Now I want to tell you. Where you will get notes and cheatsheets. If you go to codevdary.com. You will get notes. And you can download notes here. With that you will get to see cheatsheets. For example, if I want to access the HTML cheatsheet. I can access the cheatsheet here. All the elements are here. But in this course. I will tell you about the elements. With that. If you want to download my handwritten notes. You can download PDF notes from here. I have written handwritten. You will enjoy reading. In this course. I will tell you everything. But you will enjoy more by downloading the notes. I will make your learning experience. That you will also say that it was fun. Now I want you to do all the work. Put the initial review of this course. In this first video. I want you to go to this video. And post the initial review in the comment section. I want you to write in the comment section. In this first video. How did you like the course. And I got 5 stars. I got to know about the initial review. I know that the course is not finished yet. But what quality and all that. I am commenting on it in the first video. If you do this. I will be happy. Go to the first video. Read this course. Now we will talk about how you can earn money. After that. How you can earn money. The first way to earn money from web development. It is very simple. You can do freelance as a web developer. You can make websites. You can make many websites. And you will get good money by making them. Many people integrate APIs. And by integrating APIs. Many people earn good money. Many people say that chat GBT is here. So chat GBT is here. So nothing can happen. But this is not true. It is more easy. When you use chat GBT. You become a giga chat developer. So use more than chat GBT. And you can save your time. In fact, I tell you the truth. Ever since the chat GBT came. I am able to deliver my freelancing clients. I had to make as many websites as possible. I do more than half of the work. And the work that can't do chat GBT. I do it. Finally I package it. And I don't have to answer anyone. What I used chat GBT. What I did without chat GBT. You can deliver everything easily. Use chat GBT. You can't do everything. You have to use chat GBT. And after that you have to make websites. You have to deliver freelance clients. From where you can meet freelancing clients. You can go to a website like Fiverr. I know it is difficult to get work on Fiverr. But you can go to the buyer request. There is a buyer request option in Fiverr. You can match it with buyer. If I show you images. You can give your pitch to the buyer request. I have done this. And to do this. You will get work. You will get good reviews on your gig. You will earn more money. For example, Fiverr's gig. No one has ordered it. You will never get easy work. But if you have ordered on one gig. 5-6 people have ordered. And everyone has given you 5 stars. Then things get easier for you. Because buyers want to get the work done. So that they get the work done. And they are also giving money. They want to give money. So they don't have to waste money. So here Fiverr Upwork. And there are many freelancing websites. But before trying. You have to make good websites. And today's day is responsive. You have to integrate chat GBT API. You will get such work. You will not say that you should make a design. Make it simple. I am saying that most of the clients don't do this. You can make complex websites. And earn more money. Then another thing. Get a job as a web developer. If you get a job as a web developer. You will get a job. And not like this. Senior developers demand is increasing. And their package is also increasing. People are earning more money in coding. If you are a basic developer. You will get some job. After this you can sell your services. By making an Instagram account. You can upload any type of images. And you can take a little traction. Where you talk. About websites. You can approach your clients. I approach many clients. Who say that they want to make a website. I am not saying that you should have a lot of followers. You can start with a very less following. After this you can give help to people. You can give help to people. You can get this from your clients Instagram. Or social media. You can say in the end of your reel. If you want to learn anything. You can come to my DM. I will tell you. And you can easily get a client. Trust me if you have any help. After this you can sell your course. I think I was going to sell this course. I have uploaded it for free. But this course was going to get paid. The truth is this. I had given money for this course. Now it is not necessary that you have to make a web development course. There are many things in web development. Like how to use 4GBT API. Make a course for that. If you want to make a website. It will be easy to sell the course. The economy is huge. I have contacted many people. To buy this course. I have launched this course as a paid course. But I did not. I wanted to give this course as free. I had decided. People have contacted me for the last moment. Please do not put the course for free. I have put it. You will have to write the sigma batch. You will have to like. After getting the course. Many course sellers are damaged. Because when iPhone 15, 16, 19 Pro Max is available. Who will ask Blackberry? That too for paid Blackberry. I am saying this because I have put in a lot of effort. And put in a lot of experience. I know that in the coming videos. You will also know. Many things are going to be available in this course. In the coming videos. I am aware of the fact that we are taking a very slow start. But remember what I said. We will raise the bar like anything. So access the playlist. Like the video. And name the land of your village. Thank you so much for watching this video. And I will see you next time. Subscribe to our channel."
+}

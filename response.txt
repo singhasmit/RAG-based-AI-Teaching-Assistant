@@ -1,0 +1,7 @@
+In your Sigma web development course, we cover ID and Classes in HTML in Video 9.
+
+The content of Video 9 is divided into two main sections: explaining what IDs and classes are. 
+
+For example, starting from 0 seconds, I initially explain 'And now I will tell you what are ID and classes.' And then around 49 seconds, we dive deeper into the topic and discuss 'the ID and classes are attributes of the element.' 
+
+By watching Video 9, specifically focusing on these timestamps, you can gain a better understanding of how IDs and classes work in HTML.
