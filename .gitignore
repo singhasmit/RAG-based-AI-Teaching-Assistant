@@ -1,1 +1,4 @@
 venv/
+.csv
+usedforchunksndpipeline
+git push -u origin main
