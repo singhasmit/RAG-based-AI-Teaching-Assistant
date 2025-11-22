@@ -3,15 +3,18 @@ import requests
 import pandas as pd
 import numpy as np
 from sklearn.metrics.pairwise import cosine_similarity
-
+import google.generativeai as genai
 # ============================
 # 0️⃣ LOAD PARQUET
 # ============================
 df = pd.read_parquet("embeddings.parquet")
+df.to_csv("embeddings.csv", index=False)
+
 
 # ============================
 # 1️⃣ EMBEDDING FUNCTION
 # ============================
+
 def create_embedding(text_list):
     r = requests.post(
         "http://127.0.0.1:11434/api/embed",
@@ -20,13 +23,14 @@ def create_embedding(text_list):
     r.raise_for_status()
     return r.json()["embeddings"]
 
+
 # ============================
 # 2️⃣ LLM INFERENCE
 # ============================
 
-import google.generativeai as genai
 
-genai.configure(api_key="AIzaSyAmgkgvsCLOhgaoUwy92qGfyvIg9MN-hoc")
+
+genai.configure(api_key="SECRET API KEY")
 model = genai.GenerativeModel("models/gemini-2.0-flash-001")
 
 def inference(prompt: str) -> str:
