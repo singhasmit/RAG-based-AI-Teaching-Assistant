@@ -30,7 +30,7 @@ def create_embedding(text_list):
 
 
 
-genai.configure(api_key="SECRET API KEY")
+genai.configure(api_key="GEMINI_API_KEY")
 model = genai.GenerativeModel("models/gemini-2.0-flash-001")
 
 def inference(prompt: str) -> str:
